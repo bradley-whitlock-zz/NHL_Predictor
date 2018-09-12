@@ -144,19 +144,24 @@ class FeatureScraper:
 
             header = ["game_id"] + ["{}{}".format(prefix, dim) for prefix in prefixs for dim in dimension_list] + [
                 "home_goals", "visitor_goals", "extra_time"]
-            self.list_to_file(header, out_file_name="features/feature_data_{}.csv".format(self.season), recreate=True)
+            self.list_to_file(header, out_file_name="games/feature_data_{}.csv".format(self.season), recreate=True)
 
         driver = webdriver.Safari()
 
         # Process each game
+        print (GAME_DATA)
         for GAME in GAME_DATA:
+            print (self.row)
+            print (GAME)
             if int(GAME[0]) < self.row:
                 continue
             # Append the game ID to the file
             game_data = [GAME[0]]
+
+            log.info("Working on Game ID: {}".format(GAME[0]))
+
             for team_name in [GAME[2], GAME[3]]:
                 try:
-                    log.info("Working on Game ID: ".format(GAME[0]))
                     # The team name must be parsed to an ID for the URL to nhl.com
                     team_id = TEAMS[team_name]
                     timeout = 1
@@ -187,7 +192,7 @@ class FeatureScraper:
             # Right now, updating file for every game due to issues in the web-scraping process and method to prevent
             #   restarting upon each error
             game_data += [GAME[4], GAME[5], GAME[6]]
-            self.list_to_file(game_data, out_file_name="features/feature_data_{}.csv".format(self.season))
+            self.list_to_file(game_data, out_file_name="games/feature_data_{}.csv".format(self.season))
 
         driver.quit()
         # display.stop()
