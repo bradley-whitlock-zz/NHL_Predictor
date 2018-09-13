@@ -138,21 +138,18 @@ class FeatureScraper:
         if self.row <= 0:
             # Dimensions array currently includes (in order):
             dimension_list = ["team", "gp", "w", "l", "t", "ot", "p", "gf", "ga", "s/o win", "s/o loss", "sf", "sa",
-                              "ppg", "pp opp",
-                              "pp%", "ts", "ppga", "pk%", "fow", "fol", "fow%"]
+                              "ppg", "pp opp","pp%", "ts", "ppga", "pk%", "fow", "fol", "fow%"]
             prefixs = ["visitor_", "home_"]
 
             header = ["game_id"] + ["{}{}".format(prefix, dim) for prefix in prefixs for dim in dimension_list] + [
-                "home_goals", "visitor_goals", "extra_time"]
+                "home_goals", "visitor_goals", "extra_time", "game_date"]
             self.list_to_file(header, out_file_name="games/feature_data_{}.csv".format(self.season), recreate=True)
 
         driver = webdriver.Safari()
 
         # Process each game
-        print (GAME_DATA)
         for GAME in GAME_DATA:
-            print (self.row)
-            print (GAME)
+
             if int(GAME[0]) < self.row:
                 continue
             # Append the game ID to the file
@@ -191,7 +188,7 @@ class FeatureScraper:
             # Append the game results to the feature set, write to file
             # Right now, updating file for every game due to issues in the web-scraping process and method to prevent
             #   restarting upon each error
-            game_data += [GAME[4], GAME[5], GAME[6]]
+            game_data += [GAME[4], GAME[5], GAME[6], GAME[1]]
             self.list_to_file(game_data, out_file_name="games/feature_data_{}.csv".format(self.season))
 
         driver.quit()
