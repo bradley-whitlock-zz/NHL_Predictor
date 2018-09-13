@@ -43,7 +43,7 @@ class FeatureScraper:
 
     @staticmethod
     def load_game_data(season):
-        with open("data/games/game_data_{}.csv".format(season), 'r') as file:
+        with open("data/games/game_{}.csv".format(season), 'r') as file:
             reader = csv.reader(file)
             return list(reader)
 
@@ -143,7 +143,7 @@ class FeatureScraper:
 
             header = ["game_id"] + ["{}{}".format(prefix, dim) for prefix in prefixs for dim in dimension_list] + [
                 "home_goals", "visitor_goals", "extra_time", "game_date"]
-            self.list_to_file(header, out_file_name="games/feature_data_{}.csv".format(self.season), recreate=True)
+            self.list_to_file(header, out_file_name="games/feature_{}.csv".format(self.season), recreate=True)
 
         driver = webdriver.Safari()
 
@@ -189,7 +189,7 @@ class FeatureScraper:
             # Right now, updating file for every game due to issues in the web-scraping process and method to prevent
             #   restarting upon each error
             game_data += [GAME[4], GAME[5], GAME[6], GAME[1]]
-            self.list_to_file(game_data, out_file_name="games/feature_data_{}.csv".format(self.season))
+            self.list_to_file(game_data, out_file_name="games/feature_{}.csv".format(self.season))
 
         driver.quit()
         # display.stop()

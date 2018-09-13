@@ -1,0 +1,1231 @@
+date_game,visitor_team_name,home_team_name,visitor_goals,home_goals,overtimes
+0,2015-10-07,Vancouver Canucks,Calgary Flames,5,1,
+1,2015-10-07,New York Rangers,Chicago Blackhawks,3,2,
+2,2015-10-07,San Jose Sharks,Los Angeles Kings,5,1,
+3,2015-10-07,Montreal Canadiens,Toronto Maple Leafs,3,1,
+4,2015-10-08,Winnipeg Jets,Boston Bruins,6,2,
+5,2015-10-08,Ottawa Senators,Buffalo Sabres,3,1,
+6,2015-10-08,Minnesota Wild,Colorado Avalanche,5,4,
+7,2015-10-08,Pittsburgh Penguins,Dallas Stars,0,3,
+8,2015-10-08,Carolina Hurricanes,Nashville Predators,1,2,
+9,2015-10-08,Edmonton Oilers,St. Louis Blues,1,3,
+10,2015-10-08,Philadelphia Flyers,Tampa Bay Lightning,2,3,OT
+11,2015-10-09,New York Rangers,Columbus Blue Jackets,4,2,
+12,2015-10-09,Toronto Maple Leafs,Detroit Red Wings,0,4,
+13,2015-10-09,Arizona Coyotes,Los Angeles Kings,4,1,
+14,2015-10-09,Winnipeg Jets,New Jersey Devils,3,1,
+15,2015-10-09,Chicago Blackhawks,New York Islanders,3,2,OT
+16,2015-10-10,Pittsburgh Penguins,Arizona Coyotes,1,2,
+17,2015-10-10,Montreal Canadiens,Boston Bruins,4,2,
+18,2015-10-10,Tampa Bay Lightning,Buffalo Sabres,4,1,
+19,2015-10-10,Detroit Red Wings,Carolina Hurricanes,4,3,
+20,2015-10-10,New York Islanders,Chicago Blackhawks,1,4,
+21,2015-10-10,Dallas Stars,Colorado Avalanche,3,6,
+22,2015-10-10,Philadelphia Flyers,Florida Panthers,1,7,
+23,2015-10-10,St. Louis Blues,Minnesota Wild,2,3,
+24,2015-10-10,Edmonton Oilers,Nashville Predators,0,2,
+25,2015-10-10,Columbus Blue Jackets,New York Rangers,2,5,
+26,2015-10-10,Anaheim Ducks,San Jose Sharks,0,2,
+27,2015-10-10,Ottawa Senators,Toronto Maple Leafs,5,4,SO
+28,2015-10-10,Calgary Flames,Vancouver Canucks,3,2,OT
+29,2015-10-10,New Jersey Devils,Washington Capitals,3,5,
+30,2015-10-11,Montreal Canadiens,Ottawa Senators,3,1,
+31,2015-10-12,Vancouver Canucks,Anaheim Ducks,2,1,SO
+32,2015-10-12,Tampa Bay Lightning,Boston Bruins,6,3,
+33,2015-10-12,Columbus Blue Jackets,Buffalo Sabres,2,4,
+34,2015-10-12,Winnipeg Jets,New York Islanders,2,4,
+35,2015-10-12,Florida Panthers,Philadelphia Flyers,0,1,
+36,2015-10-13,Florida Panthers,Carolina Hurricanes,4,1,
+37,2015-10-13,St. Louis Blues,Calgary Flames,4,3,
+38,2015-10-13,Edmonton Oilers,Dallas Stars,2,4,
+39,2015-10-13,Tampa Bay Lightning,Detroit Red Wings,1,3,
+40,2015-10-13,Vancouver Canucks,Los Angeles Kings,3,0,
+41,2015-10-13,Nashville Predators,New Jersey Devils,3,1,
+42,2015-10-13,Winnipeg Jets,New York Rangers,4,1,
+43,2015-10-13,Montreal Canadiens,Pittsburgh Penguins,3,2,
+44,2015-10-13,San Jose Sharks,Washington Capitals,5,0,
+45,2015-10-14,Arizona Coyotes,Anaheim Ducks,4,0,
+46,2015-10-14,Ottawa Senators,Columbus Blue Jackets,7,3,
+47,2015-10-14,Boston Bruins,Colorado Avalanche,6,2,
+48,2015-10-14,Chicago Blackhawks,Philadelphia Flyers,0,3,
+49,2015-10-15,Minnesota Wild,Arizona Coyotes,4,3,
+50,2015-10-15,St. Louis Blues,Edmonton Oilers,4,2,
+51,2015-10-15,Buffalo Sabres,Florida Panthers,2,3,
+52,2015-10-15,New York Rangers,Montreal Canadiens,0,3,
+53,2015-10-15,Nashville Predators,New York Islanders,3,4,
+54,2015-10-15,Ottawa Senators,Pittsburgh Penguins,0,2,
+55,2015-10-15,Dallas Stars,Tampa Bay Lightning,5,3,
+56,2015-10-15,Chicago Blackhawks,Washington Capitals,1,4,
+57,2015-10-16,Colorado Avalanche,Anaheim Ducks,3,0,
+58,2015-10-16,Toronto Maple Leafs,Columbus Blue Jackets,6,3,
+59,2015-10-16,Carolina Hurricanes,Detroit Red Wings,5,3,
+60,2015-10-16,Minnesota Wild,Los Angeles Kings,1,2,OT
+61,2015-10-16,San Jose Sharks,New Jersey Devils,2,1,SO
+62,2015-10-16,St. Louis Blues,Vancouver Canucks,4,3,
+63,2015-10-16,Calgary Flames,Winnipeg Jets,1,3,
+64,2015-10-17,Boston Bruins,Arizona Coyotes,5,3,
+65,2015-10-17,Edmonton Oilers,Calgary Flames,5,2,
+66,2015-10-17,Columbus Blue Jackets,Chicago Blackhawks,1,4,
+67,2015-10-17,Dallas Stars,Florida Panthers,4,2,
+68,2015-10-17,Detroit Red Wings,Montreal Canadiens,1,4,
+69,2015-10-17,San Jose Sharks,New York Islanders,3,6,
+70,2015-10-17,Nashville Predators,Ottawa Senators,4,3,SO
+71,2015-10-17,Toronto Maple Leafs,Pittsburgh Penguins,1,2,
+72,2015-10-17,Buffalo Sabres,Tampa Bay Lightning,1,2,
+73,2015-10-17,Carolina Hurricanes,Washington Capitals,1,4,
+74,2015-10-18,Minnesota Wild,Anaheim Ducks,1,4,
+75,2015-10-18,Colorado Avalanche,Los Angeles Kings,1,2,
+76,2015-10-18,New Jersey Devils,New York Rangers,2,1,OT
+77,2015-10-18,Edmonton Oilers,Vancouver Canucks,2,1,OT
+78,2015-10-18,St. Louis Blues,Winnipeg Jets,4,2,
+79,2015-10-19,San Jose Sharks,New York Rangers,0,4,
+80,2015-10-20,New York Islanders,Columbus Blue Jackets,4,0,
+81,2015-10-20,Washington Capitals,Calgary Flames,6,2,
+82,2015-10-20,St. Louis Blues,Montreal Canadiens,0,3,
+83,2015-10-20,Arizona Coyotes,New Jersey Devils,2,3,OT
+84,2015-10-20,Tampa Bay Lightning,Nashville Predators,4,5,SO
+85,2015-10-20,Dallas Stars,Philadelphia Flyers,2,1,
+86,2015-10-20,Florida Panthers,Pittsburgh Penguins,2,3,OT
+87,2015-10-21,Philadelphia Flyers,Boston Bruins,5,4,OT
+88,2015-10-21,Toronto Maple Leafs,Buffalo Sabres,1,2,SO
+89,2015-10-21,Carolina Hurricanes,Colorado Avalanche,1,0,OT
+90,2015-10-21,Detroit Red Wings,Edmonton Oilers,1,3,
+91,2015-10-22,Florida Panthers,Chicago Blackhawks,2,3,
+92,2015-10-22,Columbus Blue Jackets,Minnesota Wild,2,3,
+93,2015-10-22,Anaheim Ducks,Nashville Predators,1,5,
+94,2015-10-22,Arizona Coyotes,New York Rangers,1,4,
+95,2015-10-22,New Jersey Devils,Ottawa Senators,5,4,SO
+96,2015-10-22,Dallas Stars,Pittsburgh Penguins,4,1,
+97,2015-10-22,Los Angeles Kings,San Jose Sharks,4,1,
+98,2015-10-22,Washington Capitals,Vancouver Canucks,3,2,
+99,2015-10-23,Montreal Canadiens,Buffalo Sabres,7,2,
+100,2015-10-23,Detroit Red Wings,Calgary Flames,2,3,OT
+101,2015-10-23,Washington Capitals,Edmonton Oilers,7,4,
+102,2015-10-23,Carolina Hurricanes,Los Angeles Kings,0,3,
+103,2015-10-23,Boston Bruins,New York Islanders,5,3,
+104,2015-10-23,Tampa Bay Lightning,Winnipeg Jets,4,3,OT
+105,2015-10-24,New Jersey Devils,Buffalo Sabres,4,3,
+106,2015-10-24,Tampa Bay Lightning,Chicago Blackhawks,0,1,OT
+107,2015-10-24,Columbus Blue Jackets,Colorado Avalanche,4,3,
+108,2015-10-24,Florida Panthers,Dallas Stars,6,2,
+109,2015-10-24,Anaheim Ducks,Minnesota Wild,0,3,
+110,2015-10-24,Toronto Maple Leafs,Montreal Canadiens,3,5,
+111,2015-10-24,Pittsburgh Penguins,Nashville Predators,2,1,OT
+112,2015-10-24,Arizona Coyotes,Ottawa Senators,4,1,
+113,2015-10-24,New York Rangers,Philadelphia Flyers,2,3,SO
+114,2015-10-24,Carolina Hurricanes,San Jose Sharks,2,5,
+115,2015-10-24,New York Islanders,St. Louis Blues,3,2,OT
+116,2015-10-24,Detroit Red Wings,Vancouver Canucks,3,2,OT
+117,2015-10-25,Los Angeles Kings,Edmonton Oilers,3,2,
+118,2015-10-25,Calgary Flames,New York Rangers,1,4,
+119,2015-10-25,Minnesota Wild,Winnipeg Jets,4,5,
+120,2015-10-26,Anaheim Ducks,Chicago Blackhawks,0,1,OT
+121,2015-10-26,Calgary Flames,New York Islanders,0,4,
+122,2015-10-26,Arizona Coyotes,Toronto Maple Leafs,4,3,
+123,2015-10-27,Arizona Coyotes,Boston Bruins,0,6,
+124,2015-10-27,Anaheim Ducks,Dallas Stars,3,4,
+125,2015-10-27,Carolina Hurricanes,Detroit Red Wings,3,1,
+126,2015-10-27,Colorado Avalanche,Florida Panthers,1,4,
+127,2015-10-27,Edmonton Oilers,Minnesota Wild,3,4,
+128,2015-10-27,Columbus Blue Jackets,New Jersey Devils,3,1,
+129,2015-10-27,Buffalo Sabres,Philadelphia Flyers,4,3,OT
+130,2015-10-27,Tampa Bay Lightning,St. Louis Blues,0,2,
+131,2015-10-27,Montreal Canadiens,Vancouver Canucks,1,5,
+132,2015-10-27,Los Angeles Kings,Winnipeg Jets,4,1,
+133,2015-10-28,Calgary Flames,Ottawa Senators,4,5,SO
+134,2015-10-28,Nashville Predators,San Jose Sharks,2,1,
+135,2015-10-28,Pittsburgh Penguins,Washington Capitals,3,1,
+136,2015-10-29,Vancouver Canucks,Dallas Stars,3,4,OT
+137,2015-10-29,Montreal Canadiens,Edmonton Oilers,3,4,
+138,2015-10-29,Carolina Hurricanes,New York Islanders,3,2,OT
+139,2015-10-29,New Jersey Devils,Philadelphia Flyers,4,1,
+140,2015-10-29,Buffalo Sabres,Pittsburgh Penguins,3,4,
+141,2015-10-29,Anaheim Ducks,St. Louis Blues,1,2,
+142,2015-10-29,Colorado Avalanche,Tampa Bay Lightning,2,1,
+143,2015-10-29,Chicago Blackhawks,Winnipeg Jets,1,3,
+144,2015-10-30,Vancouver Canucks,Arizona Coyotes,4,3,
+145,2015-10-30,Philadelphia Flyers,Buffalo Sabres,1,3,
+146,2015-10-30,Colorado Avalanche,Carolina Hurricanes,2,3,
+147,2015-10-30,Montreal Canadiens,Calgary Flames,6,2,
+148,2015-10-30,Ottawa Senators,Detroit Red Wings,3,1,
+149,2015-10-30,Boston Bruins,Florida Panthers,3,1,
+150,2015-10-30,Chicago Blackhawks,Minnesota Wild,4,5,
+151,2015-10-30,Toronto Maple Leafs,New York Rangers,1,3,
+152,2015-10-30,Columbus Blue Jackets,Washington Capitals,1,2,
+153,2015-10-31,Winnipeg Jets,Columbus Blue Jackets,3,2,
+154,2015-10-31,San Jose Sharks,Dallas Stars,3,5,
+155,2015-10-31,Calgary Flames,Edmonton Oilers,5,4,
+156,2015-10-31,Washington Capitals,Florida Panthers,2,1,OT
+157,2015-10-31,Nashville Predators,Los Angeles Kings,3,4,OT
+158,2015-10-31,New York Islanders,New Jersey Devils,2,3,SO
+159,2015-10-31,Detroit Red Wings,Ottawa Senators,5,3,
+160,2015-10-31,Minnesota Wild,St. Louis Blues,2,3,OT
+161,2015-10-31,Boston Bruins,Tampa Bay Lightning,3,1,
+162,2015-10-31,Pittsburgh Penguins,Toronto Maple Leafs,4,0,
+163,2015-11-01,Nashville Predators,Anaheim Ducks,2,4,
+164,2015-11-01,Tampa Bay Lightning,Carolina Hurricanes,4,3,
+165,2015-11-01,San Jose Sharks,Colorado Avalanche,4,3,
+166,2015-11-01,Winnipeg Jets,Montreal Canadiens,1,5,
+167,2015-11-01,Buffalo Sabres,New York Islanders,2,1,
+168,2015-11-02,Los Angeles Kings,Chicago Blackhawks,2,4,
+169,2015-11-02,Dallas Stars,Toronto Maple Leafs,1,4,
+170,2015-11-02,Philadelphia Flyers,Vancouver Canucks,1,4,
+171,2015-11-03,Dallas Stars,Boston Bruins,5,3,
+172,2015-11-03,Calgary Flames,Colorado Avalanche,3,6,
+173,2015-11-03,Tampa Bay Lightning,Detroit Red Wings,1,2,
+174,2015-11-03,Philadelphia Flyers,Edmonton Oilers,2,4,
+175,2015-11-03,Ottawa Senators,Montreal Canadiens,2,1,OT
+176,2015-11-03,New Jersey Devils,New York Islanders,1,2,
+177,2015-11-03,Washington Capitals,New York Rangers,2,5,
+178,2015-11-03,Columbus Blue Jackets,San Jose Sharks,5,2,
+179,2015-11-03,Los Angeles Kings,St. Louis Blues,3,0,
+180,2015-11-04,Florida Panthers,Anaheim Ducks,2,3,SO
+181,2015-11-04,St. Louis Blues,Chicago Blackhawks,6,5,OT
+182,2015-11-04,Winnipeg Jets,Toronto Maple Leafs,4,2,
+183,2015-11-04,Pittsburgh Penguins,Vancouver Canucks,3,2,
+184,2015-11-05,Colorado Avalanche,Arizona Coyotes,2,4,
+185,2015-11-05,Tampa Bay Lightning,Buffalo Sabres,4,1,
+186,2015-11-05,Philadelphia Flyers,Calgary Flames,1,2,OT
+187,2015-11-05,Columbus Blue Jackets,Los Angeles Kings,3,2,
+188,2015-11-05,Nashville Predators,Minnesota Wild,3,2,
+189,2015-11-05,New York Islanders,Montreal Canadiens,1,4,
+190,2015-11-05,Winnipeg Jets,Ottawa Senators,2,3,SO
+191,2015-11-05,Florida Panthers,San Jose Sharks,2,5,
+192,2015-11-05,Boston Bruins,Washington Capitals,1,4,
+193,2015-11-06,Columbus Blue Jackets,Anaheim Ducks,2,4,
+194,2015-11-06,Dallas Stars,Carolina Hurricanes,4,1,
+195,2015-11-06,New York Rangers,Colorado Avalanche,2,1,
+196,2015-11-06,Pittsburgh Penguins,Edmonton Oilers,2,1,
+197,2015-11-06,Chicago Blackhawks,New Jersey Devils,2,4,
+198,2015-11-06,Detroit Red Wings,Toronto Maple Leafs,2,1,OT
+199,2015-11-07,New York Rangers,Arizona Coyotes,4,1,
+200,2015-11-07,Vancouver Canucks,Buffalo Sabres,2,3,
+201,2015-11-07,Ottawa Senators,Carolina Hurricanes,2,3,OT
+202,2015-11-07,Pittsburgh Penguins,Calgary Flames,2,5,
+203,2015-11-07,Florida Panthers,Los Angeles Kings,1,4,
+204,2015-11-07,Tampa Bay Lightning,Minnesota Wild,0,1,
+205,2015-11-07,Boston Bruins,Montreal Canadiens,2,4,
+206,2015-11-07,St. Louis Blues,Nashville Predators,4,0,
+207,2015-11-07,Anaheim Ducks,San Jose Sharks,1,0,
+208,2015-11-07,Philadelphia Flyers,Winnipeg Jets,3,0,
+209,2015-11-07,Toronto Maple Leafs,Washington Capitals,2,3,SO
+210,2015-11-08,Edmonton Oilers,Chicago Blackhawks,2,4,
+211,2015-11-08,Dallas Stars,Detroit Red Wings,4,1,
+212,2015-11-08,Vancouver Canucks,New Jersey Devils,3,4,OT
+213,2015-11-08,Boston Bruins,New York Islanders,2,1,
+214,2015-11-09,Arizona Coyotes,Anaheim Ducks,4,3,OT
+215,2015-11-10,Vancouver Canucks,Columbus Blue Jackets,5,3,
+216,2015-11-10,Toronto Maple Leafs,Dallas Stars,3,2,
+217,2015-11-10,Washington Capitals,Detroit Red Wings,0,1,
+218,2015-11-10,Calgary Flames,Florida Panthers,3,4,
+219,2015-11-10,Arizona Coyotes,Los Angeles Kings,3,2,
+220,2015-11-10,Winnipeg Jets,Minnesota Wild,3,5,
+221,2015-11-10,St. Louis Blues,New Jersey Devils,2,0,
+222,2015-11-10,Ottawa Senators,Nashville Predators,5,7,
+223,2015-11-10,Carolina Hurricanes,New York Rangers,0,3,
+224,2015-11-10,Colorado Avalanche,Philadelphia Flyers,4,0,
+225,2015-11-10,New York Islanders,San Jose Sharks,4,2,
+226,2015-11-10,Buffalo Sabres,Tampa Bay Lightning,4,1,
+227,2015-11-11,Edmonton Oilers,Anaheim Ducks,4,3,OT
+228,2015-11-11,Montreal Canadiens,Pittsburgh Penguins,3,4,SO
+229,2015-11-12,Edmonton Oilers,Arizona Coyotes,1,4,
+230,2015-11-12,Colorado Avalanche,Boston Bruins,3,2,
+231,2015-11-12,Minnesota Wild,Carolina Hurricanes,3,2,OT
+232,2015-11-12,New Jersey Devils,Chicago Blackhawks,3,2,
+233,2015-11-12,Winnipeg Jets,Dallas Stars,3,6,
+234,2015-11-12,Buffalo Sabres,Florida Panthers,3,2,
+235,2015-11-12,New York Islanders,Los Angeles Kings,1,2,
+236,2015-11-12,Toronto Maple Leafs,Nashville Predators,2,1,SO
+237,2015-11-12,St. Louis Blues,New York Rangers,3,6,
+238,2015-11-12,Vancouver Canucks,Ottawa Senators,2,3,
+239,2015-11-12,Washington Capitals,Philadelphia Flyers,5,2,
+240,2015-11-12,Calgary Flames,Tampa Bay Lightning,1,3,
+241,2015-11-13,New York Islanders,Anaheim Ducks,4,1,
+242,2015-11-13,San Jose Sharks,Detroit Red Wings,3,2,
+243,2015-11-13,Columbus Blue Jackets,Pittsburgh Penguins,2,1,
+244,2015-11-13,Calgary Flames,Washington Capitals,3,2,OT
+245,2015-11-14,Detroit Red Wings,Boston Bruins,1,3,
+246,2015-11-14,San Jose Sharks,Buffalo Sabres,2,1,OT
+247,2015-11-14,Philadelphia Flyers,Carolina Hurricanes,3,2,OT
+248,2015-11-14,Arizona Coyotes,Columbus Blue Jackets,2,5,
+249,2015-11-14,Minnesota Wild,Dallas Stars,2,3,OT
+250,2015-11-14,Edmonton Oilers,Los Angeles Kings,3,4,
+251,2015-11-14,Colorado Avalanche,Montreal Canadiens,6,1,
+252,2015-11-14,Pittsburgh Penguins,New Jersey Devils,0,4,
+253,2015-11-14,Winnipeg Jets,Nashville Predators,0,7,
+254,2015-11-14,New York Rangers,Ottawa Senators,2,1,SO
+255,2015-11-14,Chicago Blackhawks,St. Louis Blues,4,2,
+256,2015-11-14,Florida Panthers,Tampa Bay Lightning,5,4,SO
+257,2015-11-14,Vancouver Canucks,Toronto Maple Leafs,2,4,
+258,2015-11-15,Calgary Flames,Chicago Blackhawks,1,4,
+259,2015-11-15,Toronto Maple Leafs,New York Rangers,3,4,
+260,2015-11-16,Anaheim Ducks,Carolina Hurricanes,4,1,
+261,2015-11-16,Tampa Bay Lightning,Florida Panthers,0,1,
+262,2015-11-16,Vancouver Canucks,Montreal Canadiens,3,4,OT
+263,2015-11-16,Arizona Coyotes,New York Islanders,2,5,
+264,2015-11-16,Detroit Red Wings,Ottawa Senators,4,3,OT
+265,2015-11-16,Winnipeg Jets,St. Louis Blues,2,3,
+266,2015-11-17,San Jose Sharks,Boston Bruins,5,4,
+267,2015-11-17,Dallas Stars,Buffalo Sabres,3,1,
+268,2015-11-17,St. Louis Blues,Columbus Blue Jackets,1,3,
+269,2015-11-17,New Jersey Devils,Calgary Flames,2,3,
+270,2015-11-17,Anaheim Ducks,Nashville Predators,2,3,
+271,2015-11-17,Los Angeles Kings,Philadelphia Flyers,3,2,SO
+272,2015-11-17,Minnesota Wild,Pittsburgh Penguins,3,4,
+273,2015-11-17,Colorado Avalanche,Toronto Maple Leafs,1,5,
+274,2015-11-18,Washington Capitals,Detroit Red Wings,2,1,OT
+275,2015-11-18,Chicago Blackhawks,Edmonton Oilers,4,3,OT
+276,2015-11-18,Vancouver Canucks,Winnipeg Jets,1,4,
+277,2015-11-19,Minnesota Wild,Boston Bruins,2,4,
+278,2015-11-19,Anaheim Ducks,Florida Panthers,3,1,
+279,2015-11-19,Arizona Coyotes,Montreal Canadiens,3,2,
+280,2015-11-19,Columbus Blue Jackets,Ottawa Senators,0,3,
+281,2015-11-19,San Jose Sharks,Philadelphia Flyers,1,0,OT
+282,2015-11-19,Colorado Avalanche,Pittsburgh Penguins,3,4,
+283,2015-11-19,Buffalo Sabres,St. Louis Blues,2,3,SO
+284,2015-11-19,New York Rangers,Tampa Bay Lightning,1,2,
+285,2015-11-19,Dallas Stars,Washington Capitals,3,2,
+286,2015-11-20,Toronto Maple Leafs,Carolina Hurricanes,2,1,SO
+287,2015-11-20,Nashville Predators,Columbus Blue Jackets,0,4,
+288,2015-11-20,Chicago Blackhawks,Calgary Flames,1,2,OT
+289,2015-11-20,Los Angeles Kings,Detroit Red Wings,2,3,
+290,2015-11-20,New Jersey Devils,Edmonton Oilers,1,5,
+291,2015-11-20,Montreal Canadiens,New York Islanders,5,3,
+292,2015-11-21,Toronto Maple Leafs,Boston Bruins,0,2,
+293,2015-11-21,Buffalo Sabres,Dallas Stars,0,3,
+294,2015-11-21,New York Rangers,Florida Panthers,5,4,OT
+295,2015-11-21,Nashville Predators,Minnesota Wild,0,4,
+296,2015-11-21,Philadelphia Flyers,Ottawa Senators,0,4,
+297,2015-11-21,San Jose Sharks,Pittsburgh Penguins,3,1,
+298,2015-11-21,Detroit Red Wings,St. Louis Blues,4,3,OT
+299,2015-11-21,Anaheim Ducks,Tampa Bay Lightning,0,5,
+300,2015-11-21,Chicago Blackhawks,Vancouver Canucks,3,6,
+301,2015-11-21,Arizona Coyotes,Winnipeg Jets,2,3,
+302,2015-11-21,Colorado Avalanche,Washington Capitals,3,7,
+303,2015-11-22,Los Angeles Kings,Carolina Hurricanes,3,4,
+304,2015-11-22,San Jose Sharks,Columbus Blue Jackets,5,3,
+305,2015-11-22,New York Islanders,Montreal Canadiens,2,4,
+306,2015-11-22,New Jersey Devils,Vancouver Canucks,3,2,
+307,2015-11-23,St. Louis Blues,Buffalo Sabres,2,1,
+308,2015-11-23,Los Angeles Kings,Florida Panthers,3,1,
+309,2015-11-23,Nashville Predators,New York Rangers,0,3,
+310,2015-11-23,Carolina Hurricanes,Philadelphia Flyers,2,3,OT
+311,2015-11-23,Boston Bruins,Toronto Maple Leafs,4,3,SO
+312,2015-11-23,Colorado Avalanche,Winnipeg Jets,4,1,
+313,2015-11-23,Edmonton Oilers,Washington Capitals,0,1,
+314,2015-11-24,Calgary Flames,Anaheim Ducks,3,5,
+315,2015-11-24,Ottawa Senators,Dallas Stars,7,4,
+316,2015-11-25,Anaheim Ducks,Arizona Coyotes,2,4,
+317,2015-11-25,Nashville Predators,Buffalo Sabres,3,2,
+318,2015-11-25,Edmonton Oilers,Carolina Hurricanes,1,4,
+319,2015-11-25,Ottawa Senators,Colorado Avalanche,5,3,
+320,2015-11-25,Boston Bruins,Detroit Red Wings,3,2,OT
+321,2015-11-25,Vancouver Canucks,Minnesota Wild,3,2,
+322,2015-11-25,Columbus Blue Jackets,New Jersey Devils,2,1,
+323,2015-11-25,Philadelphia Flyers,New York Islanders,1,3,
+324,2015-11-25,Montreal Canadiens,New York Rangers,5,1,
+325,2015-11-25,St. Louis Blues,Pittsburgh Penguins,3,4,OT
+326,2015-11-25,Chicago Blackhawks,San Jose Sharks,5,2,
+327,2015-11-25,Los Angeles Kings,Tampa Bay Lightning,1,2,SO
+328,2015-11-25,Winnipeg Jets,Washington Capitals,3,5,
+329,2015-11-27,Chicago Blackhawks,Anaheim Ducks,3,2,OT
+330,2015-11-27,Calgary Flames,Arizona Coyotes,1,2,OT
+331,2015-11-27,New York Rangers,Boston Bruins,3,4,
+332,2015-11-27,Carolina Hurricanes,Buffalo Sabres,1,4,
+333,2015-11-27,Pittsburgh Penguins,Columbus Blue Jackets,1,2,OT
+334,2015-11-27,Vancouver Canucks,Dallas Stars,2,3,SO
+335,2015-11-27,Edmonton Oilers,Detroit Red Wings,3,4,OT
+336,2015-11-27,New York Islanders,Florida Panthers,2,3,SO
+337,2015-11-27,Winnipeg Jets,Minnesota Wild,3,1,
+338,2015-11-27,Montreal Canadiens,New Jersey Devils,3,2,SO
+339,2015-11-27,Nashville Predators,Philadelphia Flyers,2,3,OT
+340,2015-11-27,Tampa Bay Lightning,Washington Capitals,2,4,
+341,2015-11-28,Ottawa Senators,Arizona Coyotes,3,4,
+342,2015-11-28,Winnipeg Jets,Colorado Avalanche,3,5,
+343,2015-11-28,Chicago Blackhawks,Los Angeles Kings,2,3,OT
+344,2015-11-28,Dallas Stars,Minnesota Wild,4,3,OT
+345,2015-11-28,New Jersey Devils,Montreal Canadiens,3,2,OT
+346,2015-11-28,Buffalo Sabres,Nashville Predators,4,1,
+347,2015-11-28,Philadelphia Flyers,New York Rangers,3,0,
+348,2015-11-28,Edmonton Oilers,Pittsburgh Penguins,3,2,SO
+349,2015-11-28,Calgary Flames,San Jose Sharks,2,5,
+350,2015-11-28,Columbus Blue Jackets,St. Louis Blues,1,3,
+351,2015-11-28,New York Islanders,Tampa Bay Lightning,3,2,
+352,2015-11-28,Washington Capitals,Toronto Maple Leafs,4,2,
+353,2015-11-29,Florida Panthers,Detroit Red Wings,2,1,OT
+354,2015-11-30,Vancouver Canucks,Anaheim Ducks,0,4,
+355,2015-11-30,Colorado Avalanche,New York Islanders,3,5,
+356,2015-11-30,Carolina Hurricanes,New York Rangers,3,4,
+357,2015-11-30,Edmonton Oilers,Toronto Maple Leafs,0,3,
+358,2015-12-01,Dallas Stars,Calgary Flames,3,4,SO
+359,2015-12-01,Minnesota Wild,Chicago Blackhawks,2,1,
+360,2015-12-01,Buffalo Sabres,Detroit Red Wings,4,5,SO
+361,2015-12-01,Vancouver Canucks,Los Angeles Kings,1,2,OT
+362,2015-12-01,Columbus Blue Jackets,Montreal Canadiens,1,2,
+363,2015-12-01,Colorado Avalanche,New Jersey Devils,2,1,
+364,2015-12-01,Arizona Coyotes,Nashville Predators,2,5,
+365,2015-12-01,Philadelphia Flyers,Ottawa Senators,4,2,
+366,2015-12-01,Pittsburgh Penguins,San Jose Sharks,5,1,
+367,2015-12-01,Florida Panthers,St. Louis Blues,3,1,
+368,2015-12-02,Tampa Bay Lightning,Anaheim Ducks,2,1,
+369,2015-12-02,Boston Bruins,Edmonton Oilers,2,3,SO
+370,2015-12-02,New York Rangers,New York Islanders,1,2,SO
+371,2015-12-02,Toronto Maple Leafs,Winnipeg Jets,1,6,
+372,2015-12-03,New Jersey Devils,Carolina Hurricanes,5,1,
+373,2015-12-03,Arizona Coyotes,Detroit Red Wings,1,5,
+374,2015-12-03,Toronto Maple Leafs,Minnesota Wild,0,1,
+375,2015-12-03,Washington Capitals,Montreal Canadiens,3,2,
+376,2015-12-03,Florida Panthers,Nashville Predators,2,1,
+377,2015-12-03,Colorado Avalanche,New York Rangers,2,1,
+378,2015-12-03,Chicago Blackhawks,Ottawa Senators,3,4,OT
+379,2015-12-03,Dallas Stars,Vancouver Canucks,4,2,
+380,2015-12-04,San Jose Sharks,Anaheim Ducks,0,1,
+381,2015-12-04,Arizona Coyotes,Buffalo Sabres,2,5,
+382,2015-12-04,Florida Panthers,Columbus Blue Jackets,2,1,SO
+383,2015-12-04,Boston Bruins,Calgary Flames,4,5,OT
+384,2015-12-04,Dallas Stars,Edmonton Oilers,1,2,OT
+385,2015-12-04,Philadelphia Flyers,New Jersey Devils,4,3,OT
+386,2015-12-04,St. Louis Blues,New York Islanders,1,2,SO
+387,2015-12-05,Montreal Canadiens,Carolina Hurricanes,2,3,
+388,2015-12-05,Nashville Predators,Detroit Red Wings,4,5,OT
+389,2015-12-05,Pittsburgh Penguins,Los Angeles Kings,3,5,
+390,2015-12-05,Colorado Avalanche,Minnesota Wild,0,3,
+391,2015-12-05,New York Islanders,Ottawa Senators,2,3,OT
+392,2015-12-05,Columbus Blue Jackets,Philadelphia Flyers,4,1,
+393,2015-12-05,Tampa Bay Lightning,San Jose Sharks,4,3,
+394,2015-12-05,Toronto Maple Leafs,St. Louis Blues,4,1,
+395,2015-12-05,Boston Bruins,Vancouver Canucks,4,0,
+396,2015-12-05,Washington Capitals,Winnipeg Jets,1,2,OT
+397,2015-12-06,Pittsburgh Penguins,Anaheim Ducks,1,2,
+398,2015-12-06,Arizona Coyotes,Carolina Hurricanes,4,5,
+399,2015-12-06,Winnipeg Jets,Chicago Blackhawks,1,3,
+400,2015-12-06,Buffalo Sabres,Edmonton Oilers,2,4,
+401,2015-12-06,Tampa Bay Lightning,Los Angeles Kings,1,3,
+402,2015-12-06,Florida Panthers,New Jersey Devils,2,4,
+403,2015-12-06,Ottawa Senators,New York Rangers,1,4,
+404,2015-12-07,Nashville Predators,Boston Bruins,3,2,
+405,2015-12-07,Minnesota Wild,Colorado Avalanche,1,2,OT
+406,2015-12-07,Buffalo Sabres,Vancouver Canucks,2,5,
+407,2015-12-08,Los Angeles Kings,Columbus Blue Jackets,3,2,OT
+408,2015-12-08,San Jose Sharks,Calgary Flames,2,4,
+409,2015-12-08,Nashville Predators,Chicago Blackhawks,1,4,
+410,2015-12-08,Carolina Hurricanes,Dallas Stars,5,6,
+411,2015-12-08,Ottawa Senators,Florida Panthers,4,2,
+412,2015-12-08,New York Islanders,Philadelphia Flyers,4,3,SO
+413,2015-12-08,Arizona Coyotes,St. Louis Blues,1,4,
+414,2015-12-08,New Jersey Devils,Toronto Maple Leafs,2,3,SO
+415,2015-12-08,Detroit Red Wings,Washington Capitals,2,3,SO
+416,2015-12-09,Pittsburgh Penguins,Colorado Avalanche,4,2,
+417,2015-12-09,San Jose Sharks,Edmonton Oilers,3,4,OT
+418,2015-12-09,Boston Bruins,Montreal Canadiens,3,1,
+419,2015-12-09,New York Rangers,Vancouver Canucks,1,2,
+420,2015-12-10,Buffalo Sabres,Calgary Flames,3,4,
+421,2015-12-10,Montreal Canadiens,Detroit Red Wings,2,3,
+422,2015-12-10,Washington Capitals,Florida Panthers,1,4,
+423,2015-12-10,Chicago Blackhawks,Nashville Predators,1,5,
+424,2015-12-10,Philadelphia Flyers,St. Louis Blues,4,2,
+425,2015-12-10,Ottawa Senators,Tampa Bay Lightning,1,4,
+426,2015-12-10,Columbus Blue Jackets,Winnipeg Jets,4,6,
+427,2015-12-11,Carolina Hurricanes,Anaheim Ducks,5,1,
+428,2015-12-11,Minnesota Wild,Arizona Coyotes,1,2,OT
+429,2015-12-11,Winnipeg Jets,Chicago Blackhawks,0,2,
+430,2015-12-11,Philadelphia Flyers,Dallas Stars,1,3,
+431,2015-12-11,New York Rangers,Edmonton Oilers,5,7,
+432,2015-12-11,Detroit Red Wings,New Jersey Devils,2,3,OT
+433,2015-12-11,Los Angeles Kings,Pittsburgh Penguins,3,2,SO
+434,2015-12-12,Carolina Hurricanes,Arizona Coyotes,5,4,OT
+435,2015-12-12,Florida Panthers,Boston Bruins,1,3,
+436,2015-12-12,Los Angeles Kings,Buffalo Sabres,1,2,OT
+437,2015-12-12,New York Islanders,Columbus Blue Jackets,3,2,OT
+438,2015-12-12,New York Rangers,Calgary Flames,4,5,OT
+439,2015-12-12,Ottawa Senators,Montreal Canadiens,1,3,
+440,2015-12-12,Colorado Avalanche,Nashville Predators,3,2,
+441,2015-12-12,Minnesota Wild,San Jose Sharks,2,0,
+442,2015-12-12,Dallas Stars,St. Louis Blues,0,3,
+443,2015-12-12,Washington Capitals,Tampa Bay Lightning,2,1,
+444,2015-12-13,Vancouver Canucks,Chicago Blackhawks,0,4,
+445,2015-12-13,New Jersey Devils,New York Islanders,0,4,
+446,2015-12-13,Colorado Avalanche,St. Louis Blues,3,1,
+447,2015-12-14,Edmonton Oilers,Boston Bruins,3,2,OT
+448,2015-12-14,Tampa Bay Lightning,Columbus Blue Jackets,2,1,
+449,2015-12-14,Buffalo Sabres,Detroit Red Wings,2,1,
+450,2015-12-14,Los Angeles Kings,Ottawa Senators,3,5,
+451,2015-12-14,Washington Capitals,Pittsburgh Penguins,4,1,
+452,2015-12-15,New Jersey Devils,Buffalo Sabres,2,0,
+453,2015-12-15,Colorado Avalanche,Chicago Blackhawks,3,0,
+454,2015-12-15,Columbus Blue Jackets,Dallas Stars,1,5,
+455,2015-12-15,Vancouver Canucks,Minnesota Wild,2,6,
+456,2015-12-15,San Jose Sharks,Montreal Canadiens,3,1,
+457,2015-12-15,Calgary Flames,Nashville Predators,2,1,OT
+458,2015-12-15,Florida Panthers,New York Islanders,5,1,
+459,2015-12-15,Edmonton Oilers,New York Rangers,2,4,
+460,2015-12-15,Carolina Hurricanes,Philadelphia Flyers,3,4,OT
+461,2015-12-15,Tampa Bay Lightning,Toronto Maple Leafs,5,4,OT
+462,2015-12-15,St. Louis Blues,Winnipeg Jets,4,3,
+463,2015-12-16,Pittsburgh Penguins,Boston Bruins,0,3,
+464,2015-12-16,Ottawa Senators,Washington Capitals,1,2,
+465,2015-12-17,Columbus Blue Jackets,Arizona Coyotes,7,5,
+466,2015-12-17,Anaheim Ducks,Buffalo Sabres,0,3,
+467,2015-12-17,Edmonton Oilers,Chicago Blackhawks,0,4,
+468,2015-12-17,New York Islanders,Colorado Avalanche,1,2,
+469,2015-12-17,Calgary Flames,Dallas Stars,3,1,
+470,2015-12-17,New York Rangers,Minnesota Wild,2,5,
+471,2015-12-17,Los Angeles Kings,Montreal Canadiens,3,0,
+472,2015-12-17,Florida Panthers,New Jersey Devils,5,1,
+473,2015-12-17,Vancouver Canucks,Philadelphia Flyers,0,2,
+474,2015-12-17,Nashville Predators,St. Louis Blues,1,2,
+475,2015-12-17,San Jose Sharks,Toronto Maple Leafs,5,4,OT
+476,2015-12-18,Florida Panthers,Carolina Hurricanes,2,0,
+477,2015-12-18,Vancouver Canucks,Detroit Red Wings,4,3,SO
+478,2015-12-18,San Jose Sharks,Ottawa Senators,2,4,
+479,2015-12-18,Boston Bruins,Pittsburgh Penguins,6,2,
+480,2015-12-18,New York Rangers,Winnipeg Jets,2,5,
+481,2015-12-18,Tampa Bay Lightning,Washington Capitals,3,5,
+482,2015-12-19,New York Islanders,Arizona Coyotes,0,1,
+483,2015-12-19,Chicago Blackhawks,Buffalo Sabres,3,2,SO
+484,2015-12-19,Philadelphia Flyers,Columbus Blue Jackets,2,3,SO
+485,2015-12-19,Edmonton Oilers,Colorado Avalanche,1,5,
+486,2015-12-19,Montreal Canadiens,Dallas Stars,2,6,
+487,2015-12-19,Anaheim Ducks,New Jersey Devils,2,1,
+488,2015-12-19,Minnesota Wild,Nashville Predators,2,3,
+489,2015-12-19,Carolina Hurricanes,Pittsburgh Penguins,2,1,
+490,2015-12-19,Calgary Flames,St. Louis Blues,2,3,
+491,2015-12-19,Los Angeles Kings,Toronto Maple Leafs,0,5,
+492,2015-12-20,New Jersey Devils,Boston Bruins,1,2,SO
+493,2015-12-20,San Jose Sharks,Chicago Blackhawks,3,4,OT
+494,2015-12-20,Calgary Flames,Detroit Red Wings,2,4,
+495,2015-12-20,Vancouver Canucks,Florida Panthers,4,5,SO
+496,2015-12-20,Washington Capitals,New York Rangers,7,3,
+497,2015-12-20,Ottawa Senators,Tampa Bay Lightning,2,5,
+498,2015-12-21,Washington Capitals,Carolina Hurricanes,2,1,
+499,2015-12-21,Toronto Maple Leafs,Colorado Avalanche,7,4,
+500,2015-12-21,Winnipeg Jets,Edmonton Oilers,1,3,
+501,2015-12-21,Dallas Stars,Minnesota Wild,6,3,
+502,2015-12-21,Montreal Canadiens,Nashville Predators,1,5,
+503,2015-12-21,Anaheim Ducks,New York Islanders,2,5,
+504,2015-12-21,St. Louis Blues,Philadelphia Flyers,3,4,
+505,2015-12-21,Columbus Blue Jackets,Pittsburgh Penguins,2,5,
+506,2015-12-22,Toronto Maple Leafs,Arizona Coyotes,2,3,
+507,2015-12-22,St. Louis Blues,Boston Bruins,2,0,
+508,2015-12-22,Winnipeg Jets,Calgary Flames,1,4,
+509,2015-12-22,Chicago Blackhawks,Dallas Stars,0,4,
+510,2015-12-22,New Jersey Devils,Detroit Red Wings,4,3,
+511,2015-12-22,Ottawa Senators,Florida Panthers,1,2,SO
+512,2015-12-22,San Jose Sharks,Los Angeles Kings,5,3,
+513,2015-12-22,Montreal Canadiens,Minnesota Wild,1,2,
+514,2015-12-22,Anaheim Ducks,New York Rangers,2,3,OT
+515,2015-12-22,Vancouver Canucks,Tampa Bay Lightning,2,1,
+516,2015-12-26,Los Angeles Kings,Arizona Coyotes,4,3,OT
+517,2015-12-26,Buffalo Sabres,Boston Bruins,6,3,
+518,2015-12-26,New Jersey Devils,Carolina Hurricanes,1,3,
+519,2015-12-26,Pittsburgh Penguins,Minnesota Wild,3,1,
+520,2015-12-26,Detroit Red Wings,Nashville Predators,3,2,
+521,2015-12-26,Dallas Stars,St. Louis Blues,2,3,SO
+522,2015-12-26,Columbus Blue Jackets,Tampa Bay Lightning,2,5,
+523,2015-12-26,Edmonton Oilers,Vancouver Canucks,1,2,OT
+524,2015-12-26,Montreal Canadiens,Washington Capitals,1,3,
+525,2015-12-27,Philadelphia Flyers,Anaheim Ducks,2,4,
+526,2015-12-27,Edmonton Oilers,Calgary Flames,3,5,
+527,2015-12-27,Carolina Hurricanes,Chicago Blackhawks,2,1,
+528,2015-12-27,Arizona Coyotes,Colorado Avalanche,2,1,OT
+529,2015-12-27,St. Louis Blues,Dallas Stars,0,3,
+530,2015-12-27,Columbus Blue Jackets,Florida Panthers,2,3,
+531,2015-12-27,Toronto Maple Leafs,New York Islanders,3,1,
+532,2015-12-27,Boston Bruins,Ottawa Senators,1,3,
+533,2015-12-27,Pittsburgh Penguins,Winnipeg Jets,0,1,
+534,2015-12-28,Washington Capitals,Buffalo Sabres,2,0,
+535,2015-12-28,Detroit Red Wings,Minnesota Wild,1,3,
+536,2015-12-28,New York Rangers,Nashville Predators,3,5,
+537,2015-12-28,Colorado Avalanche,San Jose Sharks,6,3,
+538,2015-12-28,Montreal Canadiens,Tampa Bay Lightning,4,3,SO
+539,2015-12-28,Los Angeles Kings,Vancouver Canucks,5,0,
+540,2015-12-29,Chicago Blackhawks,Arizona Coyotes,7,5,
+541,2015-12-29,Ottawa Senators,Boston Bruins,3,7,
+542,2015-12-29,Dallas Stars,Columbus Blue Jackets,3,6,
+543,2015-12-29,Anaheim Ducks,Calgary Flames,1,0,
+544,2015-12-29,Los Angeles Kings,Edmonton Oilers,5,2,
+545,2015-12-29,Montreal Canadiens,Florida Panthers,1,3,
+546,2015-12-29,Carolina Hurricanes,New Jersey Devils,2,3,
+547,2015-12-29,Nashville Predators,St. Louis Blues,3,4,OT
+548,2015-12-29,New York Islanders,Toronto Maple Leafs,6,3,
+549,2015-12-29,Detroit Red Wings,Winnipeg Jets,1,4,
+550,2015-12-30,New Jersey Devils,Ottawa Senators,3,0,
+551,2015-12-30,Toronto Maple Leafs,Pittsburgh Penguins,3,2,SO
+552,2015-12-30,Philadelphia Flyers,San Jose Sharks,2,4,
+553,2015-12-30,New York Rangers,Tampa Bay Lightning,5,2,
+554,2015-12-30,Buffalo Sabres,Washington Capitals,2,5,
+555,2015-12-31,Winnipeg Jets,Arizona Coyotes,2,4,
+556,2015-12-31,New York Islanders,Buffalo Sabres,2,1,
+557,2015-12-31,Washington Capitals,Carolina Hurricanes,2,4,
+558,2015-12-31,Los Angeles Kings,Calgary Flames,4,1,
+559,2015-12-31,Chicago Blackhawks,Colorado Avalanche,4,3,OT
+560,2015-12-31,Nashville Predators,Dallas Stars,1,5,
+561,2015-12-31,Pittsburgh Penguins,Detroit Red Wings,5,2,
+562,2015-12-31,Anaheim Ducks,Edmonton Oilers,1,0,
+563,2015-12-31,Minnesota Wild,St. Louis Blues,3,1,
+564,2016-01-01,Montreal Canadiens,Boston Bruins,5,1,
+565,2016-01-01,Anaheim Ducks,Vancouver Canucks,1,2,SO
+566,2016-01-02,Detroit Red Wings,Buffalo Sabres,4,3,
+567,2016-01-02,Nashville Predators,Carolina Hurricanes,2,1,OT
+568,2016-01-02,Washington Capitals,Columbus Blue Jackets,4,5,SO
+569,2016-01-02,Calgary Flames,Colorado Avalanche,4,0,
+570,2016-01-02,Arizona Coyotes,Edmonton Oilers,3,4,SO
+571,2016-01-02,New York Rangers,Florida Panthers,0,3,
+572,2016-01-02,Philadelphia Flyers,Los Angeles Kings,1,2,
+573,2016-01-02,Dallas Stars,New Jersey Devils,2,3,OT
+574,2016-01-02,New York Islanders,Pittsburgh Penguins,2,5,
+575,2016-01-02,Winnipeg Jets,San Jose Sharks,4,1,
+576,2016-01-02,Minnesota Wild,Tampa Bay Lightning,2,3,SO
+577,2016-01-02,St. Louis Blues,Toronto Maple Leafs,1,4,
+578,2016-01-03,Winnipeg Jets,Anaheim Ducks,1,4,
+579,2016-01-03,Ottawa Senators,Chicago Blackhawks,0,3,
+580,2016-01-03,Minnesota Wild,Florida Panthers,1,2,
+581,2016-01-03,Dallas Stars,New York Islanders,5,6,
+582,2016-01-04,Los Angeles Kings,Colorado Avalanche,1,4,
+583,2016-01-04,Carolina Hurricanes,Edmonton Oilers,0,1,OT
+584,2016-01-04,Detroit Red Wings,New Jersey Devils,1,0,
+585,2016-01-04,Ottawa Senators,St. Louis Blues,3,2,OT
+586,2016-01-04,Arizona Coyotes,Vancouver Canucks,3,2,
+587,2016-01-05,Washington Capitals,Boston Bruins,3,2,
+588,2016-01-05,Florida Panthers,Buffalo Sabres,5,1,
+589,2016-01-05,Minnesota Wild,Columbus Blue Jackets,4,2,
+590,2016-01-05,Tampa Bay Lightning,Calgary Flames,1,3,
+591,2016-01-05,Winnipeg Jets,Nashville Predators,4,1,
+592,2016-01-05,Dallas Stars,New York Rangers,2,6,
+593,2016-01-05,Montreal Canadiens,Philadelphia Flyers,3,4,
+594,2016-01-05,Chicago Blackhawks,Pittsburgh Penguins,3,2,OT
+595,2016-01-06,Toronto Maple Leafs,Anaheim Ducks,4,0,
+596,2016-01-06,Pittsburgh Penguins,Chicago Blackhawks,1,3,
+597,2016-01-06,St. Louis Blues,Colorado Avalanche,3,4,OT
+598,2016-01-06,New Jersey Devils,Montreal Canadiens,1,2,
+599,2016-01-06,Carolina Hurricanes,Vancouver Canucks,2,3,
+600,2016-01-07,Arizona Coyotes,Calgary Flames,2,1,
+601,2016-01-07,Winnipeg Jets,Dallas Stars,1,2,SO
+602,2016-01-07,Toronto Maple Leafs,Los Angeles Kings,1,2,
+603,2016-01-07,Philadelphia Flyers,Minnesota Wild,4,3,OT
+604,2016-01-07,Washington Capitals,New York Islanders,4,1,
+605,2016-01-07,Florida Panthers,Ottawa Senators,3,2,
+606,2016-01-07,Detroit Red Wings,San Jose Sharks,2,1,
+607,2016-01-08,St. Louis Blues,Anaheim Ducks,3,4,SO
+608,2016-01-08,Columbus Blue Jackets,Carolina Hurricanes,1,4,
+609,2016-01-08,Buffalo Sabres,Chicago Blackhawks,1,3,
+610,2016-01-08,Nashville Predators,Colorado Avalanche,3,5,
+611,2016-01-08,Tampa Bay Lightning,Edmonton Oilers,3,2,
+612,2016-01-08,Boston Bruins,New Jersey Devils,4,1,
+613,2016-01-09,Nashville Predators,Arizona Coyotes,0,4,
+614,2016-01-09,Carolina Hurricanes,Columbus Blue Jackets,4,3,OT
+615,2016-01-09,Minnesota Wild,Dallas Stars,2,1,
+616,2016-01-09,St. Louis Blues,Los Angeles Kings,2,1,SO
+617,2016-01-09,Pittsburgh Penguins,Montreal Canadiens,3,1,
+618,2016-01-09,Washington Capitals,New York Rangers,4,3,OT
+619,2016-01-09,Boston Bruins,Ottawa Senators,1,2,OT
+620,2016-01-09,New York Islanders,Philadelphia Flyers,0,4,
+621,2016-01-09,Toronto Maple Leafs,San Jose Sharks,0,7,
+622,2016-01-09,Tampa Bay Lightning,Vancouver Canucks,3,2,OT
+623,2016-01-10,Detroit Red Wings,Anaheim Ducks,2,1,
+624,2016-01-10,Colorado Avalanche,Chicago Blackhawks,3,6,
+625,2016-01-10,Florida Panthers,Edmonton Oilers,2,1,
+626,2016-01-10,New Jersey Devils,Minnesota Wild,2,1,
+627,2016-01-10,Buffalo Sabres,Winnipeg Jets,4,2,
+628,2016-01-10,Ottawa Senators,Washington Capitals,1,7,
+629,2016-01-11,San Jose Sharks,Calgary Flames,5,4,
+630,2016-01-11,Detroit Red Wings,Los Angeles Kings,2,4,
+631,2016-01-11,Boston Bruins,New York Rangers,1,2,
+632,2016-01-11,Florida Panthers,Vancouver Canucks,2,3,OT
+633,2016-01-12,Edmonton Oilers,Arizona Coyotes,3,4,OT
+634,2016-01-12,Pittsburgh Penguins,Carolina Hurricanes,2,3,OT
+635,2016-01-12,Nashville Predators,Chicago Blackhawks,2,3,
+636,2016-01-12,Tampa Bay Lightning,Colorado Avalanche,4,0,
+637,2016-01-12,Buffalo Sabres,Minnesota Wild,3,2,
+638,2016-01-12,Columbus Blue Jackets,New York Islanders,2,5,
+639,2016-01-12,New Jersey Devils,St. Louis Blues,2,5,
+640,2016-01-12,San Jose Sharks,Winnipeg Jets,4,1,
+641,2016-01-13,Ottawa Senators,Anaheim Ducks,1,4,
+642,2016-01-13,Florida Panthers,Calgary Flames,0,6,
+643,2016-01-13,Boston Bruins,Philadelphia Flyers,2,3,
+644,2016-01-13,Columbus Blue Jackets,Toronto Maple Leafs,3,1,
+645,2016-01-14,Detroit Red Wings,Arizona Coyotes,3,2,OT
+646,2016-01-14,New Jersey Devils,Colorado Avalanche,0,3,
+647,2016-01-14,Chicago Blackhawks,Montreal Canadiens,2,1,
+648,2016-01-14,New York Rangers,New York Islanders,1,3,
+649,2016-01-14,Edmonton Oilers,San Jose Sharks,1,2,SO
+650,2016-01-14,Carolina Hurricanes,St. Louis Blues,4,1,
+651,2016-01-14,Nashville Predators,Winnipeg Jets,4,5,OT
+652,2016-01-14,Vancouver Canucks,Washington Capitals,1,4,
+653,2016-01-15,Dallas Stars,Anaheim Ducks,2,4,
+654,2016-01-15,Boston Bruins,Buffalo Sabres,4,1,
+655,2016-01-15,Vancouver Canucks,Carolina Hurricanes,3,2,OT
+656,2016-01-15,Winnipeg Jets,Minnesota Wild,1,0,
+657,2016-01-15,Pittsburgh Penguins,Tampa Bay Lightning,4,5,OT
+658,2016-01-15,Chicago Blackhawks,Toronto Maple Leafs,4,1,
+659,2016-01-16,New Jersey Devils,Arizona Coyotes,2,0,
+660,2016-01-16,Toronto Maple Leafs,Boston Bruins,2,3,
+661,2016-01-16,Washington Capitals,Buffalo Sabres,1,4,
+662,2016-01-16,Colorado Avalanche,Columbus Blue Jackets,1,2,
+663,2016-01-16,Calgary Flames,Edmonton Oilers,1,2,SO
+664,2016-01-16,Ottawa Senators,Los Angeles Kings,5,3,
+665,2016-01-16,Minnesota Wild,Nashville Predators,0,3,
+666,2016-01-16,New York Rangers,Philadelphia Flyers,3,2,SO
+667,2016-01-16,Dallas Stars,San Jose Sharks,3,4,OT
+668,2016-01-16,Montreal Canadiens,St. Louis Blues,3,4,OT
+669,2016-01-17,Los Angeles Kings,Anaheim Ducks,3,2,
+670,2016-01-17,Montreal Canadiens,Chicago Blackhawks,2,5,
+671,2016-01-17,Philadelphia Flyers,Detroit Red Wings,2,1,SO
+672,2016-01-17,Vancouver Canucks,New York Islanders,2,1,SO
+673,2016-01-17,Carolina Hurricanes,Pittsburgh Penguins,0,5,
+674,2016-01-17,Florida Panthers,Tampa Bay Lightning,1,3,
+675,2016-01-17,New York Rangers,Washington Capitals,2,5,
+676,2016-01-18,Buffalo Sabres,Arizona Coyotes,2,1,
+677,2016-01-18,Edmonton Oilers,Florida Panthers,4,2,
+678,2016-01-18,Ottawa Senators,San Jose Sharks,4,3,SO
+679,2016-01-18,Pittsburgh Penguins,St. Louis Blues,2,5,
+680,2016-01-18,Colorado Avalanche,Winnipeg Jets,2,1,
+681,2016-01-19,Washington Capitals,Columbus Blue Jackets,6,3,
+682,2016-01-19,Dallas Stars,Los Angeles Kings,2,3,
+683,2016-01-19,Boston Bruins,Montreal Canadiens,4,1,
+684,2016-01-19,Calgary Flames,New Jersey Devils,2,4,
+685,2016-01-19,Chicago Blackhawks,Nashville Predators,4,1,
+686,2016-01-19,Vancouver Canucks,New York Rangers,2,3,OT
+687,2016-01-19,Toronto Maple Leafs,Philadelphia Flyers,3,2,
+688,2016-01-19,Edmonton Oilers,Tampa Bay Lightning,4,6,
+689,2016-01-20,Minnesota Wild,Anaheim Ducks,1,3,
+690,2016-01-20,Buffalo Sabres,Colorado Avalanche,1,2,
+691,2016-01-20,St. Louis Blues,Detroit Red Wings,2,1,
+692,2016-01-21,San Jose Sharks,Arizona Coyotes,3,1,
+693,2016-01-21,Vancouver Canucks,Boston Bruins,4,2,
+694,2016-01-21,Calgary Flames,Columbus Blue Jackets,4,2,
+695,2016-01-21,Edmonton Oilers,Dallas Stars,2,3,
+696,2016-01-21,Minnesota Wild,Los Angeles Kings,3,0,
+697,2016-01-21,Ottawa Senators,New Jersey Devils,3,6,
+698,2016-01-21,Philadelphia Flyers,Pittsburgh Penguins,3,4,
+699,2016-01-21,Chicago Blackhawks,Tampa Bay Lightning,1,2,
+700,2016-01-21,Carolina Hurricanes,Toronto Maple Leafs,1,0,OT
+701,2016-01-21,Nashville Predators,Winnipeg Jets,4,1,
+702,2016-01-22,Detroit Red Wings,Buffalo Sabres,3,0,
+703,2016-01-22,New York Rangers,Carolina Hurricanes,4,1,
+704,2016-01-22,St. Louis Blues,Colorado Avalanche,1,2,SO
+705,2016-01-22,Chicago Blackhawks,Florida Panthers,0,4,
+706,2016-01-22,New York Islanders,Ottawa Senators,5,2,
+707,2016-01-23,Los Angeles Kings,Arizona Coyotes,2,3,
+708,2016-01-23,Columbus Blue Jackets,Boston Bruins,2,3,SO
+709,2016-01-23,Colorado Avalanche,Dallas Stars,3,1,
+710,2016-01-23,Anaheim Ducks,Detroit Red Wings,4,3,
+711,2016-01-23,Nashville Predators,Edmonton Oilers,4,1,
+712,2016-01-23,Tampa Bay Lightning,Florida Panthers,2,5,
+713,2016-01-23,Vancouver Canucks,Pittsburgh Penguins,4,5,
+714,2016-01-23,Minnesota Wild,San Jose Sharks,3,4,
+715,2016-01-23,Montreal Canadiens,Toronto Maple Leafs,3,2,SO
+716,2016-01-23,New Jersey Devils,Winnipeg Jets,3,1,
+717,2016-01-24,Calgary Flames,Carolina Hurricanes,2,5,
+718,2016-01-24,St. Louis Blues,Chicago Blackhawks,0,2,
+719,2016-01-24,New York Rangers,Ottawa Senators,0,3,
+720,2016-01-24,Los Angeles Kings,San Jose Sharks,3,2,OT
+721,2016-01-25,Montreal Canadiens,Columbus Blue Jackets,2,5,
+722,2016-01-25,Calgary Flames,Dallas Stars,1,2,
+723,2016-01-25,Arizona Coyotes,Minnesota Wild,2,1,SO
+724,2016-01-25,Detroit Red Wings,New York Islanders,4,2,
+725,2016-01-25,Buffalo Sabres,New York Rangers,3,6,
+726,2016-01-25,Boston Bruins,Philadelphia Flyers,3,2,
+727,2016-01-26,Anaheim Ducks,Boston Bruins,6,2,
+728,2016-01-26,Chicago Blackhawks,Carolina Hurricanes,0,5,
+729,2016-01-26,Toronto Maple Leafs,Florida Panthers,1,5,
+730,2016-01-26,Columbus Blue Jackets,Montreal Canadiens,5,2,
+731,2016-01-26,Buffalo Sabres,Ottawa Senators,3,2,
+732,2016-01-26,New Jersey Devils,Pittsburgh Penguins,0,2,
+733,2016-01-26,Colorado Avalanche,San Jose Sharks,1,6,
+734,2016-01-26,Nashville Predators,Vancouver Canucks,2,1,
+735,2016-01-26,Arizona Coyotes,Winnipeg Jets,2,5,
+736,2016-01-27,Nashville Predators,Calgary Flames,2,1,
+737,2016-01-27,Colorado Avalanche,Los Angeles Kings,4,3,
+738,2016-01-27,Toronto Maple Leafs,Tampa Bay Lightning,0,1,
+739,2016-01-27,Philadelphia Flyers,Washington Capitals,4,3,OT
+740,2016-02-02,San Jose Sharks,Anaheim Ducks,2,3,
+741,2016-02-02,Los Angeles Kings,Arizona Coyotes,6,2,
+742,2016-02-02,Toronto Maple Leafs,Boston Bruins,4,3,OT
+743,2016-02-02,Chicago Blackhawks,Colorado Avalanche,2,1,
+744,2016-02-02,Columbus Blue Jackets,Edmonton Oilers,1,5,
+745,2016-02-02,New York Rangers,New Jersey Devils,2,3,
+746,2016-02-02,St. Louis Blues,Nashville Predators,1,0,
+747,2016-02-02,Minnesota Wild,New York Islanders,3,5,
+748,2016-02-02,Montreal Canadiens,Philadelphia Flyers,2,4,
+749,2016-02-02,Ottawa Senators,Pittsburgh Penguins,5,6,
+750,2016-02-02,Dallas Stars,Winnipeg Jets,5,3,
+751,2016-02-02,Florida Panthers,Washington Capitals,5,2,
+752,2016-02-03,Carolina Hurricanes,Calgary Flames,1,4,
+753,2016-02-03,Buffalo Sabres,Montreal Canadiens,4,2,
+754,2016-02-03,Detroit Red Wings,Tampa Bay Lightning,1,3,
+755,2016-02-04,Chicago Blackhawks,Arizona Coyotes,5,4,OT
+756,2016-02-04,Boston Bruins,Buffalo Sabres,3,2,SO
+757,2016-02-04,Dallas Stars,Colorado Avalanche,4,3,OT
+758,2016-02-04,Detroit Red Wings,Florida Panthers,3,6,
+759,2016-02-04,Anaheim Ducks,Los Angeles Kings,4,2,
+760,2016-02-04,Philadelphia Flyers,Nashville Predators,6,3,
+761,2016-02-04,Minnesota Wild,New York Rangers,2,4,
+762,2016-02-04,Edmonton Oilers,Ottawa Senators,7,2,
+763,2016-02-04,San Jose Sharks,St. Louis Blues,3,1,
+764,2016-02-04,New Jersey Devils,Toronto Maple Leafs,2,3,SO
+765,2016-02-04,Columbus Blue Jackets,Vancouver Canucks,2,1,SO
+766,2016-02-04,New York Islanders,Washington Capitals,2,3,
+767,2016-02-05,Arizona Coyotes,Anaheim Ducks,2,5,
+768,2016-02-05,Columbus Blue Jackets,Calgary Flames,2,1,
+769,2016-02-05,Pittsburgh Penguins,Tampa Bay Lightning,3,6,
+770,2016-02-05,Carolina Hurricanes,Winnipeg Jets,5,3,
+771,2016-02-06,Buffalo Sabres,Boston Bruins,1,2,OT
+772,2016-02-06,Winnipeg Jets,Colorado Avalanche,4,2,
+773,2016-02-06,Chicago Blackhawks,Dallas Stars,5,1,
+774,2016-02-06,New York Islanders,Detroit Red Wings,1,5,
+775,2016-02-06,Pittsburgh Penguins,Florida Panthers,3,2,OT
+776,2016-02-06,Edmonton Oilers,Montreal Canadiens,1,5,
+777,2016-02-06,Washington Capitals,New Jersey Devils,3,2,SO
+778,2016-02-06,San Jose Sharks,Nashville Predators,2,6,
+779,2016-02-06,Toronto Maple Leafs,Ottawa Senators,1,6,
+780,2016-02-06,New York Rangers,Philadelphia Flyers,3,2,SO
+781,2016-02-06,Minnesota Wild,St. Louis Blues,1,4,
+782,2016-02-06,Calgary Flames,Vancouver Canucks,4,1,
+783,2016-02-07,Carolina Hurricanes,Montreal Canadiens,1,2,SO
+784,2016-02-07,Edmonton Oilers,New York Islanders,1,8,
+785,2016-02-07,Philadelphia Flyers,Washington Capitals,2,3,
+786,2016-02-08,Florida Panthers,Detroit Red Wings,0,3,
+787,2016-02-08,New Jersey Devils,New York Rangers,1,2,
+788,2016-02-08,Tampa Bay Lightning,Ottawa Senators,1,5,
+789,2016-02-08,Anaheim Ducks,Pittsburgh Penguins,2,6,
+790,2016-02-09,Los Angeles Kings,Boston Bruins,9,2,
+791,2016-02-09,Florida Panthers,Buffalo Sabres,7,4,
+792,2016-02-09,New York Islanders,Columbus Blue Jackets,3,2,SO
+793,2016-02-09,Toronto Maple Leafs,Calgary Flames,3,4,
+794,2016-02-09,San Jose Sharks,Chicago Blackhawks,2,0,
+795,2016-02-09,Vancouver Canucks,Colorado Avalanche,3,1,
+796,2016-02-09,Dallas Stars,Minnesota Wild,4,3,OT
+797,2016-02-09,Tampa Bay Lightning,Montreal Canadiens,2,4,
+798,2016-02-09,Edmonton Oilers,New Jersey Devils,1,2,
+799,2016-02-09,Washington Capitals,Nashville Predators,5,3,
+800,2016-02-09,Anaheim Ducks,Philadelphia Flyers,4,1,
+801,2016-02-09,Winnipeg Jets,St. Louis Blues,2,1,SO
+802,2016-02-10,Vancouver Canucks,Arizona Coyotes,2,1,
+803,2016-02-10,Ottawa Senators,Detroit Red Wings,1,3,
+804,2016-02-10,New York Rangers,Pittsburgh Penguins,3,0,
+805,2016-02-11,Anaheim Ducks,Columbus Blue Jackets,3,4,SO
+806,2016-02-11,Dallas Stars,Chicago Blackhawks,4,2,
+807,2016-02-11,Toronto Maple Leafs,Edmonton Oilers,2,5,
+808,2016-02-11,Washington Capitals,Minnesota Wild,4,3,
+809,2016-02-11,Los Angeles Kings,New York Islanders,2,5,
+810,2016-02-11,Colorado Avalanche,Ottawa Senators,4,3,
+811,2016-02-11,Buffalo Sabres,Philadelphia Flyers,1,5,
+812,2016-02-11,Calgary Flames,San Jose Sharks,6,5,SO
+813,2016-02-11,Boston Bruins,Winnipeg Jets,6,2,
+814,2016-02-12,Calgary Flames,Arizona Coyotes,1,4,
+815,2016-02-12,Montreal Canadiens,Buffalo Sabres,4,6,
+816,2016-02-12,Pittsburgh Penguins,Carolina Hurricanes,2,1,SO
+817,2016-02-12,Colorado Avalanche,Detroit Red Wings,3,2,SO
+818,2016-02-12,St. Louis Blues,Florida Panthers,5,3,
+819,2016-02-12,Los Angeles Kings,New York Rangers,5,4,OT
+820,2016-02-12,Nashville Predators,Tampa Bay Lightning,3,4,OT
+821,2016-02-13,New York Islanders,Carolina Hurricanes,3,6,
+822,2016-02-13,Ottawa Senators,Columbus Blue Jackets,2,4,
+823,2016-02-13,Anaheim Ducks,Chicago Blackhawks,3,2,OT
+824,2016-02-13,Washington Capitals,Dallas Stars,3,4,
+825,2016-02-13,Winnipeg Jets,Edmonton Oilers,2,1,SO
+826,2016-02-13,Nashville Predators,Florida Panthers,5,0,
+827,2016-02-13,Boston Bruins,Minnesota Wild,4,2,
+828,2016-02-13,New Jersey Devils,Philadelphia Flyers,2,1,OT
+829,2016-02-13,Arizona Coyotes,San Jose Sharks,1,4,
+830,2016-02-13,Toronto Maple Leafs,Vancouver Canucks,5,2,
+831,2016-02-14,Colorado Avalanche,Buffalo Sabres,1,4,
+832,2016-02-14,Boston Bruins,Detroit Red Wings,5,6,
+833,2016-02-14,Los Angeles Kings,New Jersey Devils,0,1,
+834,2016-02-14,Philadelphia Flyers,New York Rangers,1,3,
+835,2016-02-14,St. Louis Blues,Tampa Bay Lightning,2,1,
+836,2016-02-15,Montreal Canadiens,Arizona Coyotes,2,6,
+837,2016-02-15,Anaheim Ducks,Calgary Flames,6,4,
+838,2016-02-15,Toronto Maple Leafs,Chicago Blackhawks,2,7,
+839,2016-02-15,Pittsburgh Penguins,Florida Panthers,1,2,SO
+840,2016-02-15,Dallas Stars,Nashville Predators,3,2,OT
+841,2016-02-15,Detroit Red Wings,New York Islanders,1,4,
+842,2016-02-15,Minnesota Wild,Vancouver Canucks,5,2,
+843,2016-02-16,Winnipeg Jets,Carolina Hurricanes,1,2,
+844,2016-02-16,Boston Bruins,Columbus Blue Jackets,2,1,OT
+845,2016-02-16,Anaheim Ducks,Edmonton Oilers,5,3,
+846,2016-02-16,Philadelphia Flyers,New Jersey Devils,6,3,
+847,2016-02-16,Buffalo Sabres,Ottawa Senators,1,2,SO
+848,2016-02-16,Dallas Stars,St. Louis Blues,1,2,OT
+849,2016-02-16,San Jose Sharks,Tampa Bay Lightning,4,2,
+850,2016-02-16,Los Angeles Kings,Washington Capitals,1,3,
+851,2016-02-17,Minnesota Wild,Calgary Flames,5,3,
+852,2016-02-17,Montreal Canadiens,Colorado Avalanche,2,3,
+853,2016-02-17,Chicago Blackhawks,New York Rangers,5,3,
+854,2016-02-18,Dallas Stars,Arizona Coyotes,3,6,
+855,2016-02-18,Minnesota Wild,Edmonton Oilers,5,2,
+856,2016-02-18,San Jose Sharks,Florida Panthers,2,1,SO
+857,2016-02-18,Boston Bruins,Nashville Predators,0,2,
+858,2016-02-18,Washington Capitals,New York Islanders,3,2,OT
+859,2016-02-18,Carolina Hurricanes,Ottawa Senators,2,4,
+860,2016-02-18,Detroit Red Wings,Pittsburgh Penguins,3,6,
+861,2016-02-18,Los Angeles Kings,St. Louis Blues,1,2,OT
+862,2016-02-18,Winnipeg Jets,Tampa Bay Lightning,5,6,SO
+863,2016-02-18,New York Rangers,Toronto Maple Leafs,4,2,
+864,2016-02-18,Anaheim Ducks,Vancouver Canucks,5,2,
+865,2016-02-19,San Jose Sharks,Carolina Hurricanes,2,5,
+866,2016-02-19,Buffalo Sabres,Columbus Blue Jackets,4,0,
+867,2016-02-19,Vancouver Canucks,Calgary Flames,2,5,
+868,2016-02-19,Philadelphia Flyers,Montreal Canadiens,2,3,SO
+869,2016-02-19,New York Islanders,New Jersey Devils,1,0,
+870,2016-02-20,St. Louis Blues,Arizona Coyotes,6,4,
+871,2016-02-20,Boston Bruins,Dallas Stars,7,3,
+872,2016-02-20,Colorado Avalanche,Edmonton Oilers,3,2,
+873,2016-02-20,Winnipeg Jets,Florida Panthers,1,3,
+874,2016-02-20,Los Angeles Kings,Nashville Predators,2,1,OT
+875,2016-02-20,Detroit Red Wings,Ottawa Senators,2,3,SO
+876,2016-02-20,Tampa Bay Lightning,Pittsburgh Penguins,4,2,
+877,2016-02-20,Philadelphia Flyers,Toronto Maple Leafs,5,4,OT
+878,2016-02-20,New Jersey Devils,Washington Capitals,3,4,
+879,2016-02-21,Calgary Flames,Anaheim Ducks,2,5,
+880,2016-02-21,Pittsburgh Penguins,Buffalo Sabres,4,3,
+881,2016-02-21,Tampa Bay Lightning,Carolina Hurricanes,4,2,
+882,2016-02-21,Chicago Blackhawks,Minnesota Wild,1,6,
+883,2016-02-21,Detroit Red Wings,New York Rangers,0,1,OT
+884,2016-02-21,Colorado Avalanche,Vancouver Canucks,1,5,
+885,2016-02-22,Columbus Blue Jackets,Boston Bruins,6,4,
+886,2016-02-22,Nashville Predators,Montreal Canadiens,2,1,SO
+887,2016-02-22,San Jose Sharks,St. Louis Blues,6,3,
+888,2016-02-22,Arizona Coyotes,Washington Capitals,2,3,
+889,2016-02-23,Philadelphia Flyers,Carolina Hurricanes,1,3,
+890,2016-02-23,Columbus Blue Jackets,Detroit Red Wings,1,2,SO
+891,2016-02-23,Ottawa Senators,Edmonton Oilers,4,1,
+892,2016-02-23,Calgary Flames,Los Angeles Kings,1,2,
+893,2016-02-23,New York Islanders,Minnesota Wild,4,1,
+894,2016-02-23,New York Rangers,New Jersey Devils,2,5,
+895,2016-02-23,Arizona Coyotes,Tampa Bay Lightning,1,2,
+896,2016-02-23,Nashville Predators,Toronto Maple Leafs,3,2,
+897,2016-02-23,Dallas Stars,Winnipeg Jets,5,3,
+898,2016-02-24,Buffalo Sabres,Anaheim Ducks,0,1,
+899,2016-02-24,Pittsburgh Penguins,Boston Bruins,1,5,
+900,2016-02-24,San Jose Sharks,Colorado Avalanche,3,4,SO
+901,2016-02-24,Montreal Canadiens,Washington Capitals,4,3,
+902,2016-02-25,New Jersey Devils,Columbus Blue Jackets,1,6,
+903,2016-02-25,New York Islanders,Calgary Flames,2,1,OT
+904,2016-02-25,Nashville Predators,Chicago Blackhawks,3,1,
+905,2016-02-25,Winnipeg Jets,Dallas Stars,6,3,
+906,2016-02-25,Arizona Coyotes,Florida Panthers,2,3,
+907,2016-02-25,Edmonton Oilers,Los Angeles Kings,1,2,
+908,2016-02-25,Minnesota Wild,Philadelphia Flyers,2,3,
+909,2016-02-25,New York Rangers,St. Louis Blues,2,1,
+910,2016-02-25,Carolina Hurricanes,Toronto Maple Leafs,1,3,
+911,2016-02-25,Ottawa Senators,Vancouver Canucks,3,5,
+912,2016-02-26,Edmonton Oilers,Anaheim Ducks,1,2,OT
+913,2016-02-26,Boston Bruins,Carolina Hurricanes,4,1,
+914,2016-02-26,Tampa Bay Lightning,New Jersey Devils,4,0,
+915,2016-02-26,Buffalo Sabres,San Jose Sharks,3,1,
+916,2016-02-26,Minnesota Wild,Washington Capitals,2,3,
+917,2016-02-27,Florida Panthers,Columbus Blue Jackets,3,4,SO
+918,2016-02-27,Ottawa Senators,Calgary Flames,6,4,
+919,2016-02-27,Detroit Red Wings,Colorado Avalanche,5,3,
+920,2016-02-27,New York Rangers,Dallas Stars,3,2,
+921,2016-02-27,Buffalo Sabres,Los Angeles Kings,0,2,
+922,2016-02-27,Toronto Maple Leafs,Montreal Canadiens,1,4,
+923,2016-02-27,St. Louis Blues,Nashville Predators,0,5,
+924,2016-02-27,Arizona Coyotes,Philadelphia Flyers,2,4,
+925,2016-02-27,Winnipeg Jets,Pittsburgh Penguins,1,4,
+926,2016-02-28,Los Angeles Kings,Anaheim Ducks,2,4,
+927,2016-02-28,Tampa Bay Lightning,Boston Bruins,4,1,
+928,2016-02-28,St. Louis Blues,Carolina Hurricanes,5,2,
+929,2016-02-28,Washington Capitals,Chicago Blackhawks,2,3,
+930,2016-02-28,New York Islanders,Edmonton Oilers,1,3,
+931,2016-02-28,Florida Panthers,Minnesota Wild,1,3,
+932,2016-02-28,San Jose Sharks,Vancouver Canucks,4,1,
+933,2016-02-29,Detroit Red Wings,Dallas Stars,3,2,OT
+934,2016-02-29,Columbus Blue Jackets,New York Rangers,1,2,
+935,2016-02-29,Calgary Flames,Philadelphia Flyers,3,5,
+936,2016-02-29,Arizona Coyotes,Pittsburgh Penguins,0,6,
+937,2016-02-29,Montreal Canadiens,San Jose Sharks,2,6,
+938,2016-02-29,Tampa Bay Lightning,Toronto Maple Leafs,2,1,
+939,2016-03-01,Calgary Flames,Boston Bruins,1,2,
+940,2016-03-01,Edmonton Oilers,Buffalo Sabres,2,1,OT
+941,2016-03-01,Colorado Avalanche,Minnesota Wild,3,6,
+942,2016-03-01,Carolina Hurricanes,New Jersey Devils,3,1,
+943,2016-03-01,Dallas Stars,Nashville Predators,3,5,
+944,2016-03-01,St. Louis Blues,Ottawa Senators,4,3,SO
+945,2016-03-01,New York Islanders,Vancouver Canucks,3,2,
+946,2016-03-01,Florida Panthers,Winnipeg Jets,3,2,
+947,2016-03-01,Pittsburgh Penguins,Washington Capitals,2,3,
+948,2016-03-02,Montreal Canadiens,Anaheim Ducks,2,3,SO
+949,2016-03-02,Chicago Blackhawks,Detroit Red Wings,5,2,
+950,2016-03-02,Toronto Maple Leafs,Washington Capitals,2,3,
+951,2016-03-03,Anaheim Ducks,Arizona Coyotes,5,1,
+952,2016-03-03,Chicago Blackhawks,Boston Bruins,2,4,
+953,2016-03-03,Calgary Flames,Buffalo Sabres,3,6,
+954,2016-03-03,Florida Panthers,Colorado Avalanche,2,3,
+955,2016-03-03,Montreal Canadiens,Los Angeles Kings,2,3,
+956,2016-03-03,New Jersey Devils,Nashville Predators,5,4,OT
+957,2016-03-03,Tampa Bay Lightning,Ottawa Senators,4,1,
+958,2016-03-03,Edmonton Oilers,Philadelphia Flyers,4,0,
+959,2016-03-03,New York Rangers,Pittsburgh Penguins,1,4,
+960,2016-03-03,Minnesota Wild,Toronto Maple Leafs,2,1,
+961,2016-03-03,San Jose Sharks,Vancouver Canucks,3,2,
+962,2016-03-03,New York Islanders,Winnipeg Jets,4,3,OT
+963,2016-03-04,Edmonton Oilers,Columbus Blue Jackets,3,6,
+964,2016-03-04,New Jersey Devils,Dallas Stars,2,4,
+965,2016-03-04,New York Rangers,Washington Capitals,3,2,
+966,2016-03-05,Florida Panthers,Arizona Coyotes,1,5,
+967,2016-03-05,Washington Capitals,Boston Bruins,2,1,OT
+968,2016-03-05,Minnesota Wild,Buffalo Sabres,3,2,SO
+969,2016-03-05,Nashville Predators,Colorado Avalanche,5,2,
+970,2016-03-05,Anaheim Ducks,Los Angeles Kings,3,2,
+971,2016-03-05,Columbus Blue Jackets,Philadelphia Flyers,0,6,
+972,2016-03-05,Calgary Flames,Pittsburgh Penguins,4,2,
+973,2016-03-05,Vancouver Canucks,San Jose Sharks,4,2,
+974,2016-03-05,Carolina Hurricanes,Tampa Bay Lightning,3,4,OT
+975,2016-03-05,Ottawa Senators,Toronto Maple Leafs,3,2,
+976,2016-03-05,Montreal Canadiens,Winnipeg Jets,2,4,
+977,2016-03-06,Detroit Red Wings,Chicago Blackhawks,1,4,
+978,2016-03-06,St. Louis Blues,Minnesota Wild,4,2,
+979,2016-03-06,Pittsburgh Penguins,New Jersey Devils,6,1,
+980,2016-03-06,New York Islanders,New York Rangers,6,4,
+981,2016-03-06,Dallas Stars,Ottawa Senators,2,1,
+982,2016-03-06,Edmonton Oilers,Winnipeg Jets,2,1,
+983,2016-03-07,Washington Capitals,Anaheim Ducks,2,1,SO
+984,2016-03-07,San Jose Sharks,Calgary Flames,2,1,OT
+985,2016-03-07,Arizona Coyotes,Colorado Avalanche,1,3,
+986,2016-03-07,Boston Bruins,Florida Panthers,5,4,OT
+987,2016-03-07,Vancouver Canucks,Los Angeles Kings,1,5,
+988,2016-03-07,Tampa Bay Lightning,Philadelphia Flyers,2,4,
+989,2016-03-07,Buffalo Sabres,Toronto Maple Leafs,4,3,SO
+990,2016-03-08,New York Rangers,Buffalo Sabres,4,2,
+991,2016-03-08,Ottawa Senators,Carolina Hurricanes,3,4,SO
+992,2016-03-08,Detroit Red Wings,Columbus Blue Jackets,3,5,
+993,2016-03-08,San Jose Sharks,Edmonton Oilers,3,0,
+994,2016-03-08,Dallas Stars,Montreal Canadiens,3,4,OT
+995,2016-03-08,Pittsburgh Penguins,New York Islanders,1,2,
+996,2016-03-08,Boston Bruins,Tampa Bay Lightning,1,0,OT
+997,2016-03-08,Nashville Predators,Winnipeg Jets,4,2,
+998,2016-03-09,Nashville Predators,Calgary Flames,2,3,OT
+999,2016-03-09,Anaheim Ducks,Colorado Avalanche,0,3,
+1000,2016-03-09,Washington Capitals,Los Angeles Kings,3,4,OT
+1001,2016-03-09,Chicago Blackhawks,St. Louis Blues,2,3,SO
+1002,2016-03-09,New York Islanders,Toronto Maple Leafs,3,4,SO
+1003,2016-03-09,Arizona Coyotes,Vancouver Canucks,2,3,OT
+1004,2016-03-10,Carolina Hurricanes,Boston Bruins,3,2,OT
+1005,2016-03-10,Winnipeg Jets,Detroit Red Wings,2,3,
+1006,2016-03-10,Ottawa Senators,Florida Panthers,2,6,
+1007,2016-03-10,Edmonton Oilers,Minnesota Wild,2,1,
+1008,2016-03-10,Buffalo Sabres,Montreal Canadiens,2,3,
+1009,2016-03-10,New Jersey Devils,San Jose Sharks,3,0,
+1010,2016-03-11,Pittsburgh Penguins,Columbus Blue Jackets,3,2,
+1011,2016-03-11,Arizona Coyotes,Calgary Flames,4,1,
+1012,2016-03-11,Chicago Blackhawks,Dallas Stars,2,5,
+1013,2016-03-11,Anaheim Ducks,St. Louis Blues,2,5,
+1014,2016-03-11,Philadelphia Flyers,Tampa Bay Lightning,3,1,
+1015,2016-03-12,New York Islanders,Boston Bruins,1,3,
+1016,2016-03-12,Carolina Hurricanes,Buffalo Sabres,2,3,OT
+1017,2016-03-12,St. Louis Blues,Dallas Stars,5,4,OT
+1018,2016-03-12,New York Rangers,Detroit Red Wings,2,3,OT
+1019,2016-03-12,Arizona Coyotes,Edmonton Oilers,4,0,
+1020,2016-03-12,Philadelphia Flyers,Florida Panthers,4,5,SO
+1021,2016-03-12,New Jersey Devils,Los Angeles Kings,2,1,OT
+1022,2016-03-12,Minnesota Wild,Montreal Canadiens,4,1,
+1023,2016-03-12,Toronto Maple Leafs,Ottawa Senators,0,4,
+1024,2016-03-12,Washington Capitals,San Jose Sharks,2,5,
+1025,2016-03-12,Nashville Predators,Vancouver Canucks,2,4,
+1026,2016-03-12,Colorado Avalanche,Winnipeg Jets,2,3,
+1027,2016-03-13,Tampa Bay Lightning,Columbus Blue Jackets,4,0,
+1028,2016-03-13,Toronto Maple Leafs,Detroit Red Wings,1,0,
+1029,2016-03-13,Pittsburgh Penguins,New York Rangers,5,3,
+1030,2016-03-14,New Jersey Devils,Anaheim Ducks,1,7,
+1031,2016-03-14,St. Louis Blues,Calgary Flames,4,7,
+1032,2016-03-14,Los Angeles Kings,Chicago Blackhawks,5,0,
+1033,2016-03-14,Nashville Predators,Edmonton Oilers,3,2,
+1034,2016-03-14,Florida Panthers,New York Islanders,2,3,
+1035,2016-03-14,Winnipeg Jets,Vancouver Canucks,5,2,
+1036,2016-03-15,Los Angeles Kings,Dallas Stars,5,2,
+1037,2016-03-15,Florida Panthers,Montreal Canadiens,4,1,
+1038,2016-03-15,Minnesota Wild,Ottawa Senators,2,3,OT
+1039,2016-03-15,Detroit Red Wings,Philadelphia Flyers,3,4,
+1040,2016-03-15,New York Islanders,Pittsburgh Penguins,1,2,SO
+1041,2016-03-15,Boston Bruins,San Jose Sharks,2,3,
+1042,2016-03-15,Tampa Bay Lightning,Toronto Maple Leafs,1,4,
+1043,2016-03-15,Carolina Hurricanes,Washington Capitals,1,2,OT
+1044,2016-03-16,New York Rangers,Anaheim Ducks,2,1,
+1045,2016-03-16,Montreal Canadiens,Buffalo Sabres,3,2,OT
+1046,2016-03-16,Winnipeg Jets,Calgary Flames,1,4,
+1047,2016-03-16,Philadelphia Flyers,Chicago Blackhawks,3,2,
+1048,2016-03-16,St. Louis Blues,Edmonton Oilers,4,6,
+1049,2016-03-16,Colorado Avalanche,Vancouver Canucks,3,1,
+1050,2016-03-17,San Jose Sharks,Arizona Coyotes,1,3,
+1051,2016-03-17,Detroit Red Wings,Columbus Blue Jackets,3,1,
+1052,2016-03-17,Tampa Bay Lightning,Dallas Stars,3,4,
+1053,2016-03-17,New York Rangers,Los Angeles Kings,3,4,OT
+1054,2016-03-17,Minnesota Wild,New Jersey Devils,4,7,
+1055,2016-03-17,New York Islanders,Nashville Predators,2,4,
+1056,2016-03-17,Carolina Hurricanes,Pittsburgh Penguins,2,4,
+1057,2016-03-17,Florida Panthers,Toronto Maple Leafs,4,1,
+1058,2016-03-18,Boston Bruins,Anaheim Ducks,0,4,
+1059,2016-03-18,Ottawa Senators,Buffalo Sabres,1,3,
+1060,2016-03-18,Colorado Avalanche,Calgary Flames,4,3,SO
+1061,2016-03-18,Vancouver Canucks,Edmonton Oilers,0,2,
+1062,2016-03-18,Chicago Blackhawks,Winnipeg Jets,4,0,
+1063,2016-03-18,Nashville Predators,Washington Capitals,1,4,
+1064,2016-03-19,Tampa Bay Lightning,Arizona Coyotes,2,0,
+1065,2016-03-19,New Jersey Devils,Columbus Blue Jackets,3,6,
+1066,2016-03-19,New York Islanders,Dallas Stars,0,3,
+1067,2016-03-19,Detroit Red Wings,Florida Panthers,5,3,
+1068,2016-03-19,Boston Bruins,Los Angeles Kings,1,2,
+1069,2016-03-19,Carolina Hurricanes,Minnesota Wild,2,3,SO
+1070,2016-03-19,Montreal Canadiens,Ottawa Senators,0,5,
+1071,2016-03-19,Pittsburgh Penguins,Philadelphia Flyers,4,1,
+1072,2016-03-19,New York Rangers,San Jose Sharks,1,4,
+1073,2016-03-19,Buffalo Sabres,Toronto Maple Leafs,1,4,
+1074,2016-03-19,St. Louis Blues,Vancouver Canucks,3,0,
+1075,2016-03-20,Minnesota Wild,Chicago Blackhawks,3,2,SO
+1076,2016-03-20,Colorado Avalanche,Edmonton Oilers,3,2,
+1077,2016-03-20,Calgary Flames,Montreal Canadiens,4,1,
+1078,2016-03-20,Columbus Blue Jackets,New Jersey Devils,1,2,
+1079,2016-03-20,Washington Capitals,Pittsburgh Penguins,2,6,
+1080,2016-03-20,Arizona Coyotes,San Jose Sharks,0,3,
+1081,2016-03-20,Anaheim Ducks,Winnipeg Jets,3,2,OT
+1082,2016-03-21,Los Angeles Kings,Nashville Predators,2,5,
+1083,2016-03-21,Philadelphia Flyers,New York Islanders,4,1,
+1084,2016-03-21,Florida Panthers,New York Rangers,2,4,
+1085,2016-03-21,Calgary Flames,Toronto Maple Leafs,2,5,
+1086,2016-03-22,Edmonton Oilers,Arizona Coyotes,2,4,
+1087,2016-03-22,Buffalo Sabres,Carolina Hurricanes,3,2,
+1088,2016-03-22,Philadelphia Flyers,Columbus Blue Jackets,2,3,SO
+1089,2016-03-22,Dallas Stars,Chicago Blackhawks,6,2,
+1090,2016-03-22,Los Angeles Kings,Minnesota Wild,1,2,
+1091,2016-03-22,Anaheim Ducks,Montreal Canadiens,3,4,
+1092,2016-03-22,Washington Capitals,Ottawa Senators,4,2,
+1093,2016-03-22,St. Louis Blues,San Jose Sharks,1,0,
+1094,2016-03-22,Detroit Red Wings,Tampa Bay Lightning,2,6,
+1095,2016-03-22,Vancouver Canucks,Winnipeg Jets,0,2,
+1096,2016-03-23,Ottawa Senators,New York Islanders,1,3,
+1097,2016-03-23,Boston Bruins,New York Rangers,2,5,
+1098,2016-03-24,Dallas Stars,Arizona Coyotes,1,3,
+1099,2016-03-24,Florida Panthers,Boston Bruins,4,1,
+1100,2016-03-24,Carolina Hurricanes,Columbus Blue Jackets,3,2,
+1101,2016-03-24,Philadelphia Flyers,Colorado Avalanche,4,2,
+1102,2016-03-24,Montreal Canadiens,Detroit Red Wings,3,4,
+1103,2016-03-24,Calgary Flames,Minnesota Wild,2,6,
+1104,2016-03-24,Vancouver Canucks,Nashville Predators,2,3,SO
+1105,2016-03-24,New Jersey Devils,Pittsburgh Penguins,3,0,
+1106,2016-03-24,Edmonton Oilers,San Jose Sharks,6,3,
+1107,2016-03-24,Anaheim Ducks,Toronto Maple Leafs,5,6,OT
+1108,2016-03-24,Los Angeles Kings,Winnipeg Jets,1,4,
+1109,2016-03-25,Washington Capitals,New Jersey Devils,1,0,OT
+1110,2016-03-25,Vancouver Canucks,St. Louis Blues,0,4,
+1111,2016-03-25,New York Islanders,Tampa Bay Lightning,4,7,
+1112,2016-03-26,Philadelphia Flyers,Arizona Coyotes,1,2,
+1113,2016-03-26,Winnipeg Jets,Buffalo Sabres,2,3,
+1114,2016-03-26,New York Islanders,Carolina Hurricanes,4,3,OT
+1115,2016-03-26,Chicago Blackhawks,Calgary Flames,4,1,
+1116,2016-03-26,Minnesota Wild,Colorado Avalanche,4,0,
+1117,2016-03-26,Pittsburgh Penguins,Detroit Red Wings,7,2,
+1118,2016-03-26,Edmonton Oilers,Los Angeles Kings,4,6,
+1119,2016-03-26,New York Rangers,Montreal Canadiens,5,2,
+1120,2016-03-26,Columbus Blue Jackets,Nashville Predators,1,5,
+1121,2016-03-26,Anaheim Ducks,Ottawa Senators,4,3,OT
+1122,2016-03-26,Dallas Stars,San Jose Sharks,4,2,
+1123,2016-03-26,Florida Panthers,Tampa Bay Lightning,5,2,
+1124,2016-03-26,Boston Bruins,Toronto Maple Leafs,3,1,
+1125,2016-03-26,St. Louis Blues,Washington Capitals,4,0,
+1126,2016-03-27,New Jersey Devils,Carolina Hurricanes,2,3,
+1127,2016-03-27,Pittsburgh Penguins,New York Rangers,3,2,OT
+1128,2016-03-27,Chicago Blackhawks,Vancouver Canucks,3,2,
+1129,2016-03-28,Calgary Flames,Arizona Coyotes,5,2,
+1130,2016-03-28,Buffalo Sabres,Detroit Red Wings,2,3,
+1131,2016-03-28,Anaheim Ducks,Edmonton Oilers,2,1,
+1132,2016-03-28,Colorado Avalanche,Nashville Predators,4,3,
+1133,2016-03-28,Winnipeg Jets,Philadelphia Flyers,2,3,OT
+1134,2016-03-28,Los Angeles Kings,San Jose Sharks,2,5,
+1135,2016-03-28,Toronto Maple Leafs,Tampa Bay Lightning,0,3,
+1136,2016-03-28,Columbus Blue Jackets,Washington Capitals,1,4,
+1137,2016-03-29,Nashville Predators,Dallas Stars,2,5,
+1138,2016-03-29,Toronto Maple Leafs,Florida Panthers,5,2,
+1139,2016-03-29,Chicago Blackhawks,Minnesota Wild,1,4,
+1140,2016-03-29,Detroit Red Wings,Montreal Canadiens,3,4,
+1141,2016-03-29,Boston Bruins,New Jersey Devils,1,2,
+1142,2016-03-29,Carolina Hurricanes,New York Islanders,1,2,SO
+1143,2016-03-29,Buffalo Sabres,Pittsburgh Penguins,4,5,SO
+1144,2016-03-29,Colorado Avalanche,St. Louis Blues,1,3,
+1145,2016-03-29,San Jose Sharks,Vancouver Canucks,4,1,
+1146,2016-03-30,Calgary Flames,Anaheim Ducks,3,8,
+1147,2016-03-30,Washington Capitals,Philadelphia Flyers,1,2,SO
+1148,2016-03-30,Ottawa Senators,Winnipeg Jets,2,1,
+1149,2016-03-31,Toronto Maple Leafs,Buffalo Sabres,1,4,
+1150,2016-03-31,New York Rangers,Carolina Hurricanes,3,4,
+1151,2016-03-31,Arizona Coyotes,Dallas Stars,1,4,
+1152,2016-03-31,New Jersey Devils,Florida Panthers,2,3,
+1153,2016-03-31,Calgary Flames,Los Angeles Kings,0,3,
+1154,2016-03-31,Ottawa Senators,Minnesota Wild,3,2,
+1155,2016-03-31,Columbus Blue Jackets,New York Islanders,3,4,
+1156,2016-03-31,Nashville Predators,Pittsburgh Penguins,2,5,
+1157,2016-03-31,Vancouver Canucks,San Jose Sharks,4,2,
+1158,2016-03-31,Montreal Canadiens,Tampa Bay Lightning,3,0,
+1159,2016-04-01,Vancouver Canucks,Anaheim Ducks,3,2,
+1160,2016-04-01,Washington Capitals,Colorado Avalanche,4,2,
+1161,2016-04-01,Minnesota Wild,Detroit Red Wings,2,3,
+1162,2016-04-01,Boston Bruins,St. Louis Blues,6,5,
+1163,2016-04-01,Chicago Blackhawks,Winnipeg Jets,5,4,OT
+1164,2016-04-02,Washington Capitals,Arizona Coyotes,0,3,
+1165,2016-04-02,Columbus Blue Jackets,Carolina Hurricanes,5,1,
+1166,2016-04-02,Calgary Flames,Edmonton Oilers,5,0,
+1167,2016-04-02,Montreal Canadiens,Florida Panthers,3,4,
+1168,2016-04-02,Dallas Stars,Los Angeles Kings,3,2,
+1169,2016-04-02,San Jose Sharks,Nashville Predators,3,2,SO
+1170,2016-04-02,Pittsburgh Penguins,New York Islanders,5,0,
+1171,2016-04-02,Buffalo Sabres,New York Rangers,4,3,
+1172,2016-04-02,Ottawa Senators,Philadelphia Flyers,2,3,
+1173,2016-04-02,New Jersey Devils,Tampa Bay Lightning,1,3,
+1174,2016-04-02,Detroit Red Wings,Toronto Maple Leafs,3,2,
+1175,2016-04-03,Dallas Stars,Anaheim Ducks,1,3,
+1176,2016-04-03,Boston Bruins,Chicago Blackhawks,4,6,
+1177,2016-04-03,St. Louis Blues,Colorado Avalanche,5,1,
+1178,2016-04-03,Philadelphia Flyers,Pittsburgh Penguins,2,6,
+1179,2016-04-03,Minnesota Wild,Winnipeg Jets,1,5,
+1180,2016-04-04,New York Rangers,Columbus Blue Jackets,4,2,
+1181,2016-04-04,Tampa Bay Lightning,New York Islanders,2,5,
+1182,2016-04-04,Arizona Coyotes,St. Louis Blues,2,5,
+1183,2016-04-04,Florida Panthers,Toronto Maple Leafs,4,3,
+1184,2016-04-04,Los Angeles Kings,Vancouver Canucks,2,3,
+1185,2016-04-05,Winnipeg Jets,Anaheim Ducks,2,1,OT
+1186,2016-04-05,Carolina Hurricanes,Boston Bruins,2,1,SO
+1187,2016-04-05,Los Angeles Kings,Calgary Flames,5,4,OT
+1188,2016-04-05,Arizona Coyotes,Chicago Blackhawks,2,6,
+1189,2016-04-05,San Jose Sharks,Minnesota Wild,3,0,
+1190,2016-04-05,Florida Panthers,Montreal Canadiens,4,1,
+1191,2016-04-05,Buffalo Sabres,New Jersey Devils,3,1,
+1192,2016-04-05,Colorado Avalanche,Nashville Predators,3,4,
+1193,2016-04-05,Tampa Bay Lightning,New York Rangers,2,3,
+1194,2016-04-05,Pittsburgh Penguins,Ottawa Senators,5,3,
+1195,2016-04-05,New York Islanders,Washington Capitals,4,3,OT
+1196,2016-04-06,Philadelphia Flyers,Detroit Red Wings,0,3,
+1197,2016-04-06,Vancouver Canucks,Edmonton Oilers,2,6,
+1198,2016-04-06,Columbus Blue Jackets,Toronto Maple Leafs,5,1,
+1199,2016-04-07,Detroit Red Wings,Boston Bruins,2,5,
+1200,2016-04-07,Montreal Canadiens,Carolina Hurricanes,4,2,
+1201,2016-04-07,Vancouver Canucks,Calgary Flames,3,7,
+1202,2016-04-07,St. Louis Blues,Chicago Blackhawks,2,1,OT
+1203,2016-04-07,Colorado Avalanche,Dallas Stars,2,4,
+1204,2016-04-07,Anaheim Ducks,Los Angeles Kings,1,2,
+1205,2016-04-07,Tampa Bay Lightning,New Jersey Devils,4,2,
+1206,2016-04-07,Arizona Coyotes,Nashville Predators,2,3,OT
+1207,2016-04-07,New York Islanders,New York Rangers,4,1,
+1208,2016-04-07,Florida Panthers,Ottawa Senators,1,3,
+1209,2016-04-07,Toronto Maple Leafs,Philadelphia Flyers,4,3,OT
+1210,2016-04-07,Winnipeg Jets,San Jose Sharks,5,4,
+1211,2016-04-07,Pittsburgh Penguins,Washington Capitals,4,3,OT
+1212,2016-04-08,Columbus Blue Jackets,Buffalo Sabres,4,1,
+1213,2016-04-09,Ottawa Senators,Boston Bruins,6,1,
+1214,2016-04-09,Chicago Blackhawks,Columbus Blue Jackets,4,5,OT
+1215,2016-04-09,Anaheim Ducks,Colorado Avalanche,5,3,
+1216,2016-04-09,Nashville Predators,Dallas Stars,2,3,
+1217,2016-04-09,Carolina Hurricanes,Florida Panthers,2,5,
+1218,2016-04-09,Winnipeg Jets,Los Angeles Kings,4,3,SO
+1219,2016-04-09,Calgary Flames,Minnesota Wild,2,1,
+1220,2016-04-09,Tampa Bay Lightning,Montreal Canadiens,2,5,
+1221,2016-04-09,Toronto Maple Leafs,New Jersey Devils,1,5,
+1222,2016-04-09,Buffalo Sabres,New York Islanders,4,3,OT
+1223,2016-04-09,Detroit Red Wings,New York Rangers,2,3,
+1224,2016-04-09,Pittsburgh Penguins,Philadelphia Flyers,1,3,
+1225,2016-04-09,Arizona Coyotes,San Jose Sharks,0,1,
+1226,2016-04-09,Washington Capitals,St. Louis Blues,5,1,
+1227,2016-04-09,Edmonton Oilers,Vancouver Canucks,3,4,SO
+1228,2016-04-10,Philadelphia Flyers,New York Islanders,5,2,
+1229,2016-04-10,Anaheim Ducks,Washington Capitals,2,0,
