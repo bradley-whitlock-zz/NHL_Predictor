@@ -71,21 +71,46 @@ def get_game_data(content, out_file_name):
 
     list_to_file(game_data, out_file_name=out_file_name, header=facts)
 
+def get_standings_data(content, season, out_file_name):
+    table = content.find("table", {"id": "standings"})
+    rows = table.findAll("tr")
+    rows = rows[1:]
+    standing_data = []
+    for row in rows:
+        team = row.find("td", {"data-stat": "team_name"}).get_text()
+        record_raw = row.find("td", {"data-stat": "Overall"}).get_text()
+        record = record_raw.split('-')
+        points = int(record[0])*2 + int(record[2])
+        standing_data.append([team, season, points])
+
+    list_to_file(standing_data, out_file_name=out_file_name, header=["team_name", "year", "points"])
+
+
 
 def scrape_data(data, season=2018, num_seasons=10):
-    if data.lower() not in ["player", "game"]:
+    data = data.lower()
+    if data not in ["skaters", "games", "standings"]:
         raise ValueError("Only able to scrape player and game data, not {}".format(data))
 
     seasons = [season - i for i in range(num_seasons)]
 
     for curr_season in seasons:
-        url_field = "skaters" if data == "player" else "games"
+        if data == "skaters":
+            page = requests.get("https://www.hockey-reference.com/leagues/NHL_{}_skaters.html".format(curr_season))
+            content = BeautifulSoup(page.content, 'html.parser')
 
-        page = requests.get("https://www.hockey-reference.com/leagues/NHL_{}_{}.html".format(curr_season, url_field))
+            get_player_data(content, "players/{}.csv".format(curr_season))
 
-        content = BeautifulSoup(page.content, 'html.parser')
+        elif data == "games":
+            page = requests.get("https://www.hockey-reference.com/leagues/NHL_{}_games.html".format(curr_season))
+            content = BeautifulSoup(page.content, 'html.parser')
 
-        if data == "player":
-            get_player_data(content, "players/player_data_{}.csv".format(curr_season))
+            get_game_data(content, "games/game_{}.csv".format(curr_season))
+        
         else:
-            get_game_data(content, "games/game_data_{}.csv".format(curr_season))
+            page = requests.get("https://www.hockey-reference.com/leagues/NHL_{}_standings.html".format(curr_season))
+            content = BeautifulSoup(page.content, 'html.parser')
+
+            get_standings_data(content, season, "points/{}.csv".format(curr_season))
+
+

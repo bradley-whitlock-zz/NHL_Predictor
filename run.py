@@ -9,10 +9,13 @@ from web_scraper.nhl_data_to_json import team_id_parser
 class Predictor(object):
 
     def get_games(self, season=2018, num_seasons=1):
-        return scrape_data(data="game", season=season, num_seasons=num_seasons)
+        return scrape_data(data="games", season=season, num_seasons=num_seasons)
 
     def get_players(self, season=2018, num_seasons=1):
-        return scrape_data(data="player", season=season, num_seasons=num_seasons)
+        return scrape_data(data="skaters", season=season, num_seasons=num_seasons)
+
+    def get_points(self, season=2018, num_seasons=1):
+        return scrape_data(data="standings", season=season, num_seasons=num_seasons)
 
     def gen_teams(self):
         return team_id_parser()
