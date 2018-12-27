@@ -1,4 +1,5 @@
 import fire
+from utils.logger import log
 
 from web_scraper.game_scraper import scrape_data
 # from model.nhl_predictor import extract_features
